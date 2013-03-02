@@ -49,7 +49,7 @@ class teeworldsModule:
                                     self._statefile],stdout=subprocess.PIPE)
             (stdout, stderr) = process.communicate()
             # Devel disable statefile
-            os.system('rm '+self._statefile)
+            #os.system('rm '+self._statefile)
             return stdout.rsplit('\n')
         except:
             print "Can't launch logtail"
