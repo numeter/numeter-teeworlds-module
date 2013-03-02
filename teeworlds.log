@@ -1,0 +1,2225 @@
+[51309e46][server]: starting...
+[51309e46][datafile]: loading. filename='maps/dm1.map'
+[51309e46][datafile]: allocsize=2684
+[51309e46][datafile]: readsize=2396
+[51309e46][datafile]: swaplen=2416
+[51309e46][datafile]: item_size=2012
+[51309e46][datafile]: loading done. datafile='maps/dm1.map'
+[51309e46][server]: maps/dm1.map crc is f2159e6e
+[51309e46][server]: server name is 'eNovance's server'
+[51309e46][datafile]: loading data index=17 size=325 uncompressed=12000
+[51309e46][server]: version 0.6 626fce9a778df4d4
+[51309e4c][server]: player is ready. ClientID=0 addr=94.143.112.83:55283
+[51309e4c][server]: 'RaoH' -> 'RaoH'
+[51309e4c][server]: player has entered the game. ClientID=0 addr=94.143.112.83:55283
+[51309e4c][chat]: *** 'RaoH' entered and joined the game
+[51309e4c][game]: team_join player='0:RaoH' team=0
+[51309e4e][server]: player is ready. ClientID=1 addr=94.143.112.83:55758
+[51309e4f][game]: pickup player='0:RaoH' item=1/0
+[51309e4f][server]: 'talset' -> 'talset'
+[51309e4f][server]: player has entered the game. ClientID=1 addr=94.143.112.83:55758
+[51309e4f][chat]: *** 'talset' entered and joined the game
+[51309e4f][game]: team_join player='1:talset' team=0
+[51309e4f][game]: pickup player='0:RaoH' item=2/2
+[51309e50][game]: pickup player='0:RaoH' item=1/0
+[51309e52][game]: pickup player='1:talset' item=2/3
+[51309e53][game]: pickup player='1:talset' item=1/0
+[51309e53][game]: pickup player='1:talset' item=1/0
+[51309e54][game]: pickup player='0:RaoH' item=2/3
+[51309e54][game]: pickup player='0:RaoH' item=1/0
+[51309e55][game]: pickup player='0:RaoH' item=1/0
+[51309e57][server]: player is ready. ClientID=2 addr=94.143.112.83:54087
+[51309e57][server]: 'Seraf' -> 'Seraf'
+[51309e57][server]: player has entered the game. ClientID=2 addr=94.143.112.83:54087
+[51309e57][chat]: *** 'Seraf' entered and joined the game
+[51309e57][game]: team_join player='2:Seraf' team=0
+[51309e58][game]: pickup player='0:RaoH' item=0/0
+[51309e58][game]: pickup player='0:RaoH' item=0/0
+[51309e59][game]: pickup player='2:Seraf' item=2/2
+[51309e59][game]: pickup player='2:Seraf' item=1/0
+[51309e59][game]: pickup player='2:Seraf' item=1/0
+[51309e5a][game]: pickup player='0:RaoH' item=0/0
+[51309e5c][game]: kill killer='1:talset' victim='0:RaoH' weapon=3 special=0
+[51309e60][game]: pickup player='1:talset' item=0/0
+[51309e60][game]: pickup player='1:talset' item=0/0
+[51309e60][game]: pickup player='1:talset' item=1/0
+[51309e60][game]: pickup player='1:talset' item=0/0
+[51309e60][game]: pickup player='1:talset' item=0/0
+[51309e63][game]: kill killer='2:Seraf' victim='1:talset' weapon=2 special=0
+[51309e65][game]: pickup player='2:Seraf' item=2/3
+[51309e66][game]: kill killer='0:RaoH' victim='2:Seraf' weapon=0 special=0
+[51309e67][game]: pickup player='1:talset' item=2/3
+[51309e68][game]: pickup player='0:RaoH' item=1/0
+[51309e69][game]: pickup player='1:talset' item=1/0
+[51309e69][game]: pickup player='1:talset' item=1/0
+[51309e69][game]: pickup player='0:RaoH' item=1/0
+[51309e6b][game]: pickup player='0:RaoH' item=0/0
+[51309e6b][game]: pickup player='0:RaoH' item=0/0
+[51309e6b][game]: pickup player='0:RaoH' item=0/0
+[51309e71][server]: player is ready. ClientID=3 addr=94.143.112.83:47164
+[51309e71][game]: kill killer='1:talset' victim='2:Seraf' weapon=3 special=0
+[51309e71][game]: kill killer='1:talset' victim='1:talset' weapon=3 special=0
+[51309e71][server]: 'wildchild' -> 'wildchild'
+[51309e71][server]: player has entered the game. ClientID=3 addr=94.143.112.83:47164
+[51309e71][chat]: *** 'wildchild' entered and joined the game
+[51309e71][game]: team_join player='3:wildchild' team=0
+[51309e73][game]: pickup player='1:talset' item=1/0
+[51309e74][game]: pickup player='1:talset' item=1/0
+[51309e74][game]: pickup player='1:talset' item=2/2
+[51309e76][server]: player is ready. ClientID=4 addr=94.143.112.83:43727
+[51309e76][game]: pickup player='1:talset' item=2/3
+[51309e77][server]: 'pipo' -> 'pipo'
+[51309e77][server]: player has entered the game. ClientID=4 addr=94.143.112.83:43727
+[51309e77][chat]: *** 'pipo' entered and joined the game
+[51309e77][game]: team_join player='4:pipo' team=0
+[51309e7a][game]: pickup player='4:pipo' item=2/2
+[51309e7b][game]: pickup player='4:pipo' item=1/0
+[51309e7b][game]: pickup player='4:pipo' item=1/0
+[51309e7c][game]: pickup player='1:talset' item=0/0
+[51309e7c][game]: pickup player='2:Seraf' item=1/0
+[51309e7c][game]: pickup player='2:Seraf' item=1/0
+[51309e7d][game]: pickup player='3:wildchild' item=2/3
+[51309e7e][game]: kill killer='4:pipo' victim='3:wildchild' weapon=1 special=0
+[51309e7f][game]: pickup player='0:RaoH' item=0/0
+[51309e80][game]: pickup player='2:Seraf' item=0/0
+[51309e81][game]: kill killer='2:Seraf' victim='4:pipo' weapon=0 special=0
+[51309e83][game]: pickup player='4:pipo' item=1/0
+[51309e84][game]: pickup player='3:wildchild' item=1/0
+[51309e85][game]: kill killer='2:Seraf' victim='0:RaoH' weapon=0 special=0
+[51309e85][game]: pickup player='3:wildchild' item=2/2
+[51309e86][game]: kill killer='4:pipo' victim='2:Seraf' weapon=1 special=0
+[51309e8b][game]: pickup player='2:Seraf' item=2/3
+[51309e8c][game]: pickup player='3:wildchild' item=1/0
+[51309e8c][game]: pickup player='3:wildchild' item=1/0
+[51309e8c][game]: pickup player='4:pipo' item=1/0
+[51309e8d][game]: pickup player='4:pipo' item=1/0
+[51309e8d][game]: pickup player='3:wildchild' item=2/2
+[51309e8d][game]: pickup player='2:Seraf' item=0/0
+[51309e8d][game]: pickup player='1:talset' item=2/3
+[51309e8f][game]: pickup player='1:talset' item=1/0
+[51309e8f][game]: pickup player='1:talset' item=1/0
+[51309e8f][game]: pickup player='2:Seraf' item=0/0
+[51309e90][game]: pickup player='2:Seraf' item=0/0
+[51309e92][game]: pickup player='4:pipo' item=0/0
+[51309e92][game]: pickup player='4:pipo' item=0/0
+[51309e92][game]: pickup player='4:pipo' item=1/0
+[51309e92][game]: pickup player='4:pipo' item=0/0
+[51309e92][game]: pickup player='4:pipo' item=0/0
+[51309e94][game]: kill killer='2:Seraf' victim='4:pipo' weapon=3 special=0
+[51309e94][game]: kill killer='2:Seraf' victim='1:talset' weapon=3 special=0
+[51309e97][game]: pickup player='4:pipo' item=1/0
+[51309e97][game]: pickup player='3:wildchild' item=0/0
+[51309e97][game]: pickup player='4:pipo' item=2/2
+[51309e99][server]: player is ready. ClientID=5 addr=94.143.112.83:42987
+[51309e9a][server]: 'shaftmx' -> 'shaftmx'
+[51309e9a][server]: player has entered the game. ClientID=5 addr=94.143.112.83:42987
+[51309e9a][chat]: *** 'shaftmx' entered and joined the game
+[51309e9a][game]: team_join player='5:shaftmx' team=0
+[51309e9a][game]: kill killer='4:pipo' victim='2:Seraf' weapon=2 special=0
+[51309e9b][game]: kill killer='3:wildchild' victim='4:pipo' weapon=2 special=0
+[51309e9c][game]: pickup player='3:wildchild' item=2/3
+[51309e9c][game]: pickup player='1:talset' item=2/3
+[51309e9d][game]: pickup player='5:shaftmx' item=1/0
+[51309e9e][game]: pickup player='0:RaoH' item=0/0
+[51309e9e][game]: pickup player='2:Seraf' item=2/2
+[51309e9f][game]: pickup player='2:Seraf' item=1/0
+[51309e9f][game]: pickup player='2:Seraf' item=1/0
+[51309e9f][game]: pickup player='0:RaoH' item=0/0
+[51309ea0][game]: pickup player='5:shaftmx' item=0/0
+[51309ea0][game]: kill killer='1:talset' victim='0:RaoH' weapon=3 special=0
+[51309ea1][game]: pickup player='3:wildchild' item=0/0
+[51309ea1][game]: pickup player='3:wildchild' item=1/0
+[51309ea1][game]: pickup player='3:wildchild' item=0/0
+[51309ea1][game]: pickup player='1:talset' item=0/0
+[51309ea2][game]: kill killer='3:wildchild' victim='4:pipo' weapon=3 special=0
+[51309ea5][game]: kill killer='3:wildchild' victim='1:talset' weapon=3 special=0
+[51309ea5][game]: pickup player='4:pipo' item=1/0
+[51309ea6][game]: pickup player='4:pipo' item=1/0
+[51309ea6][game]: pickup player='0:RaoH' item=3/5
+[51309ea6][game]: kill killer='2:Seraf' victim='4:pipo' weapon=2 special=0
+[51309ea6][game]: pickup player='3:wildchild' item=1/0
+[51309ea7][game]: pickup player='1:talset' item=1/0
+[51309ea7][game]: pickup player='1:talset' item=1/0
+[51309ea7][game]: kill killer='3:wildchild' victim='3:wildchild' weapon=3 special=0
+[51309ea9][game]: pickup player='0:RaoH' item=2/2
+[51309eab][game]: pickup player='5:shaftmx' item=2/3
+[51309eac][game]: kill killer='0:RaoH' victim='5:shaftmx' weapon=5 special=0
+[51309eae][game]: pickup player='2:Seraf' item=0/0
+[51309eb0][game]: pickup player='1:talset' item=2/3
+[51309eb0][game]: kill killer='4:pipo' victim='2:Seraf' weapon=1 special=0
+[51309eb0][game]: pickup player='4:pipo' item=0/0
+[51309eb0][game]: kill killer='0:RaoH' victim='4:pipo' weapon=5 special=0
+[51309eb0][game]: pickup player='2:Seraf' item=2/2
+[51309eb0][game]: pickup player='0:RaoH' item=0/0
+[51309eb1][game]: kill killer='0:RaoH' victim='1:talset' weapon=5 special=0
+[51309eb2][game]: pickup player='3:wildchild' item=1/0
+[51309eb2][game]: pickup player='2:Seraf' item=1/0
+[51309eb2][game]: pickup player='2:Seraf' item=1/0
+[51309eb6][game]: pickup player='5:shaftmx' item=0/0
+[51309eb6][game]: pickup player='5:shaftmx' item=0/0
+[51309eb7][game]: kill killer='0:RaoH' victim='3:wildchild' weapon=1 special=0
+[51309eb7][game]: pickup player='5:shaftmx' item=0/0
+[51309eb8][game]: pickup player='5:shaftmx' item=1/0
+[51309eb8][game]: pickup player='5:shaftmx' item=1/0
+[51309eba][game]: pickup player='4:pipo' item=1/0
+[51309eba][game]: pickup player='4:pipo' item=1/0
+[51309eba][game]: pickup player='5:shaftmx' item=2/2
+[51309ebb][game]: pickup player='3:wildchild' item=1/0
+[51309ebb][game]: pickup player='3:wildchild' item=1/0
+[51309ebe][game]: kill killer='2:Seraf' victim='4:pipo' weapon=0 special=0
+[51309ebf][game]: pickup player='1:talset' item=2/3
+[51309ebf][game]: pickup player='0:RaoH' item=2/3
+[51309ec1][game]: pickup player='2:Seraf' item=0/0
+[51309ec2][game]: pickup player='2:Seraf' item=0/0
+[51309ec2][game]: kill killer='5:shaftmx' victim='3:wildchild' weapon=2 special=0
+[51309ec2][game]: pickup player='1:talset' item=1/0
+[51309ec2][game]: kill killer='4:pipo' victim='0:RaoH' weapon=1 special=0
+[51309ec5][game]: kill killer='1:talset' victim='2:Seraf' weapon=3 special=0
+[51309ec9][game]: pickup player='3:wildchild' item=1/0
+[51309ec9][game]: pickup player='3:wildchild' item=1/0
+[51309ec9][game]: pickup player='0:RaoH' item=1/0
+[51309ec9][game]: pickup player='0:RaoH' item=1/0
+[51309eca][game]: pickup player='2:Seraf' item=2/2
+[51309eca][game]: pickup player='2:Seraf' item=1/0
+[51309eca][game]: pickup player='2:Seraf' item=1/0
+[51309ecb][game]: kill killer='1:talset' victim='3:wildchild' weapon=3 special=0
+[51309ecc][game]: pickup player='1:talset' item=0/0
+[51309ecd][game]: pickup player='3:wildchild' item=1/0
+[51309ecd][game]: pickup player='3:wildchild' item=1/0
+[51309ecd][game]: pickup player='3:wildchild' item=2/2
+[51309ece][game]: pickup player='1:talset' item=2/3
+[51309ecf][game]: kill killer='0:RaoH' victim='4:pipo' weapon=0 special=0
+[51309ed0][game]: pickup player='2:Seraf' item=0/0
+[51309ed1][game]: pickup player='5:shaftmx' item=0/0
+[51309ed1][game]: pickup player='5:shaftmx' item=0/0
+[51309ed1][game]: pickup player='5:shaftmx' item=0/0
+[51309ed1][game]: pickup player='5:shaftmx' item=1/0
+[51309ed1][game]: pickup player='5:shaftmx' item=0/0
+[51309ed4][game]: pickup player='3:wildchild' item=0/0
+[51309ed4][game]: kill killer='3:wildchild' victim='5:shaftmx' weapon=2 special=0
+[51309ed5][game]: pickup player='4:pipo' item=2/3
+[51309ed5][game]: kill killer='1:talset' victim='0:RaoH' weapon=3 special=0
+[51309ed6][game]: kill killer='1:talset' victim='4:pipo' weapon=3 special=0
+[51309ed6][game]: pickup player='3:wildchild' item=0/0
+[51309ed9][game]: kill killer='2:Seraf' victim='3:wildchild' weapon=0 special=0
+[51309ed9][game]: pickup player='5:shaftmx' item=1/0
+[51309ed9][game]: pickup player='5:shaftmx' item=1/0
+[51309edb][game]: pickup player='1:talset' item=1/0
+[51309edb][game]: pickup player='1:talset' item=1/0
+[51309edb][game]: pickup player='3:wildchild' item=2/2
+[51309edb][game]: pickup player='3:wildchild' item=1/0
+[51309edb][game]: pickup player='3:wildchild' item=1/0
+[51309ede][game]: pickup player='1:talset' item=0/0
+[51309ede][game]: kill killer='5:shaftmx' victim='2:Seraf' weapon=0 special=0
+[51309ee0][game]: kill killer='0:RaoH' victim='5:shaftmx' weapon=0 special=0
+[51309ee0][game]: pickup player='4:pipo' item=2/3
+[51309ee0][game]: kill killer='1:talset' victim='4:pipo' weapon=3 special=0
+[51309ee1][game]: pickup player='3:wildchild' item=1/0
+[51309ee1][game]: pickup player='3:wildchild' item=1/0
+[51309ee2][game]: pickup player='2:Seraf' item=2/2
+[51309ee2][game]: kill killer='1:talset' victim='0:RaoH' weapon=3 special=0
+[51309ee3][game]: pickup player='2:Seraf' item=0/0
+[51309ee3][game]: pickup player='2:Seraf' item=0/0
+[51309ee4][game]: pickup player='2:Seraf' item=0/0
+[51309ee5][game]: pickup player='1:talset' item=0/0
+[51309ee7][game]: pickup player='5:shaftmx' item=2/3
+[51309ee8][game]: pickup player='2:Seraf' item=0/0
+[51309ee8][game]: pickup player='2:Seraf' item=0/0
+[51309ee8][game]: pickup player='1:talset' item=0/0
+[51309ee8][game]: pickup player='2:Seraf' item=0/0
+[51309ee8][game]: pickup player='2:Seraf' item=1/0
+[51309ee8][game]: pickup player='2:Seraf' item=0/0
+[51309ee8][game]: kill killer='5:shaftmx' victim='4:pipo' weapon=3 special=0
+[51309ee9][game]: kill killer='3:wildchild' victim='2:Seraf' weapon=1 special=0
+[51309eeb][game]: pickup player='1:talset' item=1/0
+[51309eeb][game]: pickup player='1:talset' item=1/0
+[51309eec][game]: pickup player='4:pipo' item=2/2
+[51309eec][game]: pickup player='4:pipo' item=1/0
+[51309eec][game]: pickup player='4:pipo' item=1/0
+[51309eed][game]: pickup player='2:Seraf' item=1/0
+[51309eed][game]: pickup player='2:Seraf' item=1/0
+[51309eee][game]: pickup player='1:talset' item=0/0
+[51309ef0][game]: pickup player='3:wildchild' item=2/3
+[51309ef2][game]: pickup player='0:RaoH' item=1/0
+[51309ef2][game]: kill killer='5:shaftmx' victim='4:pipo' weapon=3 special=0
+[51309ef2][game]: pickup player='0:RaoH' item=1/0
+[51309ef3][game]: pickup player='0:RaoH' item=2/2
+[51309ef3][game]: pickup player='5:shaftmx' item=0/0
+[51309ef3][game]: pickup player='5:shaftmx' item=0/0
+[51309ef5][game]: pickup player='5:shaftmx' item=0/0
+[51309ef5][game]: pickup player='3:wildchild' item=0/0
+[51309ef6][game]: pickup player='1:talset' item=2/3
+[51309ef8][game]: pickup player='3:wildchild' item=0/0
+[51309ef9][game]: kill killer='1:talset' victim='2:Seraf' weapon=3 special=0
+[51309efb][game]: pickup player='1:talset' item=0/0
+[51309efc][game]: pickup player='1:talset' item=1/0
+[51309efd][game]: pickup player='2:Seraf' item=2/2
+[51309efe][game]: pickup player='1:talset' item=1/0
+[51309efe][game]: pickup player='1:talset' item=1/0
+[51309efe][game]: pickup player='3:wildchild' item=0/0
+[51309efe][game]: pickup player='5:shaftmx' item=1/0
+[51309efe][game]: kill killer='3:wildchild' victim='4:pipo' weapon=3 special=0
+[51309eff][game]: kill killer='0:RaoH' victim='2:Seraf' weapon=2 special=0
+[51309eff][game]: kill killer='1:talset' victim='3:wildchild' weapon=3 special=0
+[51309f00][game]: pickup player='5:shaftmx' item=1/0
+[51309f02][game]: pickup player='2:Seraf' item=3/5
+[51309f03][game]: kill killer='2:Seraf' victim='5:shaftmx' weapon=5 special=0
+[51309f03][game]: pickup player='1:talset' item=1/0
+[51309f03][game]: pickup player='1:talset' item=1/0
+[51309f04][game]: pickup player='3:wildchild' item=1/0
+[51309f04][game]: pickup player='3:wildchild' item=1/0
+[51309f04][game]: pickup player='3:wildchild' item=2/2
+[51309f05][game]: pickup player='4:pipo' item=2/3
+[51309f07][game]: kill killer='2:Seraf' victim='5:shaftmx' weapon=5 special=0
+[51309f07][game]: kill killer='2:Seraf' victim='4:pipo' weapon=5 special=0
+[51309f09][game]: pickup player='1:talset' item=0/0
+[51309f09][game]: pickup player='1:talset' item=0/0
+[51309f0a][game]: kill killer='2:Seraf' victim='0:RaoH' weapon=5 special=0
+[51309f0a][game]: kill killer='2:Seraf' victim='3:wildchild' weapon=5 special=0
+[51309f0a][game]: pickup player='5:shaftmx' item=2/3
+[51309f0d][game]: pickup player='2:Seraf' item=1/0
+[51309f0d][game]: pickup player='2:Seraf' item=1/0
+[51309f0e][game]: pickup player='0:RaoH' item=2/2
+[51309f0e][game]: kill killer='5:shaftmx' victim='2:Seraf' weapon=3 special=0
+[51309f0f][game]: pickup player='5:shaftmx' item=0/0
+[51309f0f][game]: pickup player='1:talset' item=1/0
+[51309f10][game]: pickup player='0:RaoH' item=1/0
+[51309f10][game]: pickup player='0:RaoH' item=1/0
+[51309f12][game]: kill killer='3:wildchild' victim='5:shaftmx' weapon=0 special=0
+[51309f14][game]: pickup player='1:talset' item=2/3
+[51309f14][game]: pickup player='2:Seraf' item=1/0
+[51309f14][game]: pickup player='2:Seraf' item=1/0
+[51309f15][game]: pickup player='5:shaftmx' item=1/0
+[51309f15][game]: kill killer='1:talset' victim='3:wildchild' weapon=3 special=0
+[51309f15][game]: pickup player='5:shaftmx' item=1/0
+[51309f15][game]: pickup player='5:shaftmx' item=2/2
+[51309f15][game]: kill killer='1:talset' victim='4:pipo' weapon=3 special=0
+[51309f18][game]: kill killer='0:RaoH' victim='3:wildchild' weapon=2 special=0
+[51309f19][game]: pickup player='1:talset' item=0/0
+[51309f19][game]: kill killer='5:shaftmx' victim='2:Seraf' weapon=2 special=0
+[51309f1a][game]: pickup player='5:shaftmx' item=0/0
+[51309f1b][game]: kill killer='0:RaoH' victim='4:pipo' weapon=2 special=0
+[51309f1c][game]: pickup player='2:Seraf' item=2/3
+[51309f1c][game]: kill killer='1:talset' victim='0:RaoH' weapon=3 special=0
+[51309f1e][game]: pickup player='1:talset' item=2/2
+[51309f1f][game]: pickup player='1:talset' item=1/0
+[51309f1f][game]: pickup player='1:talset' item=1/0
+[51309f1f][game]: pickup player='2:Seraf' item=0/0
+[51309f20][game]: pickup player='5:shaftmx' item=1/0
+[51309f20][game]: pickup player='5:shaftmx' item=1/0
+[51309f20][game]: kill killer='1:talset' victim='3:wildchild' weapon=3 special=0
+[51309f21][game]: kill killer='2:Seraf' victim='4:pipo' weapon=3 special=0
+[51309f23][game]: pickup player='1:talset' item=0/0
+[51309f23][game]: pickup player='1:talset' item=0/0
+[51309f23][game]: pickup player='5:shaftmx' item=2/3
+[51309f24][game]: pickup player='1:talset' item=0/0
+[51309f25][game]: pickup player='0:RaoH' item=0/0
+[51309f26][game]: kill killer='1:talset' victim='3:wildchild' weapon=3 special=0
+[51309f27][game]: kill killer='5:shaftmx' victim='4:pipo' weapon=3 special=0
+[51309f28][game]: pickup player='3:wildchild' item=1/0
+[51309f28][game]: pickup player='3:wildchild' item=1/0
+[51309f28][game]: kill killer='5:shaftmx' victim='0:RaoH' weapon=3 special=0
+[51309f28][game]: kill killer='2:Seraf' victim='5:shaftmx' weapon=3 special=0
+[51309f28][game]: pickup player='3:wildchild' item=2/2
+[51309f2b][game]: pickup player='3:wildchild' item=1/0
+[51309f2b][game]: pickup player='2:Seraf' item=0/0
+[51309f2c][game]: pickup player='5:shaftmx' item=2/3
+[51309f30][game]: kill killer='3:wildchild' victim='2:Seraf' weapon=2 special=0
+[51309f30][game]: kill killer='5:shaftmx' victim='1:talset' weapon=3 special=0
+[51309f31][game]: kill killer='3:wildchild' victim='0:RaoH' weapon=2 special=0
+[51309f31][server]: player is ready. ClientID=6 addr=94.143.112.83:45851
+[51309f31][server]: 'guits' -> 'guits'
+[51309f31][server]: player has entered the game. ClientID=6 addr=94.143.112.83:45851
+[51309f31][chat]: *** 'guits' entered and joined the game
+[51309f31][game]: team_join player='6:guits' team=0
+[51309f33][game]: pickup player='1:talset' item=1/0
+[51309f33][game]: pickup player='1:talset' item=1/0
+[51309f34][game]: pickup player='3:wildchild' item=2/3
+[51309f34][game]: pickup player='6:guits' item=2/2
+[51309f34][game]: kill killer='2:Seraf' victim='4:pipo' weapon=0 special=0
+[51309f35][game]: kill killer='5:shaftmx' victim='2:Seraf' weapon=3 special=0
+[51309f35][game]: pickup player='5:shaftmx' item=0/0
+[51309f36][game]: pickup player='6:guits' item=1/0
+[51309f36][game]: pickup player='6:guits' item=1/0
+[51309f37][game]: pickup player='5:shaftmx' item=0/0
+[51309f37][game]: pickup player='2:Seraf' item=1/0
+[51309f37][game]: pickup player='2:Seraf' item=1/0
+[51309f38][game]: pickup player='0:RaoH' item=0/0
+[51309f39][game]: pickup player='0:RaoH' item=0/0
+[51309f39][game]: pickup player='0:RaoH' item=0/0
+[51309f3a][game]: pickup player='0:RaoH' item=2/2
+[51309f3c][game]: pickup player='1:talset' item=2/3
+[51309f3d][game]: kill killer='2:Seraf' victim='6:guits' weapon=0 special=0
+[51309f3e][game]: pickup player='3:wildchild' item=0/0
+[51309f3e][game]: pickup player='3:wildchild' item=0/0
+[51309f3e][game]: pickup player='3:wildchild' item=0/0
+[51309f3e][game]: pickup player='3:wildchild' item=1/0
+[51309f3e][game]: pickup player='3:wildchild' item=0/0
+[51309f40][game]: pickup player='1:talset' item=0/0
+[51309f41][game]: kill killer='1:talset' victim='2:Seraf' weapon=3 special=0
+[51309f43][game]: kill killer='0:RaoH' victim='6:guits' weapon=2 special=0
+[51309f44][game]: pickup player='4:pipo' item=2/3
+[51309f45][game]: pickup player='2:Seraf' item=2/2
+[51309f46][game]: kill killer='0:RaoH' victim='6:guits' weapon=2 special=0
+[51309f47][game]: pickup player='3:wildchild' item=0/0
+[51309f47][game]: pickup player='2:Seraf' item=1/0
+[51309f47][game]: pickup player='1:talset' item=1/0
+[51309f47][game]: pickup player='2:Seraf' item=1/0
+[51309f48][game]: pickup player='1:talset' item=1/0
+[51309f48][game]: pickup player='4:pipo' item=0/0
+[51309f48][game]: pickup player='6:guits' item=1/0
+[51309f49][game]: pickup player='6:guits' item=1/0
+[51309f49][game]: kill killer='2:Seraf' victim='0:RaoH' weapon=2 special=0
+[51309f4a][game]: pickup player='5:shaftmx' item=0/0
+[51309f4a][game]: pickup player='5:shaftmx' item=0/0
+[51309f4b][game]: pickup player='5:shaftmx' item=2/2
+[51309f4b][game]: kill killer='4:pipo' victim='1:talset' weapon=3 special=0
+[51309f4c][game]: kill killer='4:pipo' victim='3:wildchild' weapon=3 special=0
+[51309f4c][game]: kill killer='0:RaoH' victim='5:shaftmx' weapon=1 special=0
+[51309f4d][game]: pickup player='2:Seraf' item=1/0
+[51309f4d][game]: pickup player='2:Seraf' item=1/0
+[51309f4f][game]: pickup player='1:talset' item=2/3
+[51309f50][game]: pickup player='4:pipo' item=0/0
+[51309f50][game]: kill killer='2:Seraf' victim='4:pipo' weapon=2 special=0
+[51309f53][game]: kill killer='6:guits' victim='0:RaoH' weapon=0 special=0
+[51309f53][game]: pickup player='4:pipo' item=0/0
+[51309f55][game]: pickup player='5:shaftmx' item=0/0
+[51309f55][game]: pickup player='5:shaftmx' item=0/0
+[51309f55][game]: pickup player='5:shaftmx' item=1/0
+[51309f55][game]: pickup player='5:shaftmx' item=0/0
+[51309f55][game]: pickup player='5:shaftmx' item=0/0
+[51309f56][game]: kill killer='1:talset' victim='6:guits' weapon=3 special=0
+[51309f56][game]: kill killer='1:talset' victim='2:Seraf' weapon=3 special=0
+[51309f56][game]: pickup player='0:RaoH' item=2/3
+[51309f57][game]: pickup player='2:Seraf' item=2/2
+[51309f58][game]: pickup player='4:pipo' item=1/0
+[51309f58][game]: pickup player='4:pipo' item=1/0
+[51309f58][game]: pickup player='2:Seraf' item=1/0
+[51309f58][game]: pickup player='1:talset' item=0/0
+[51309f58][game]: pickup player='2:Seraf' item=1/0
+[51309f58][game]: pickup player='1:talset' item=0/0
+[51309f59][game]: kill killer='0:RaoH' victim='3:wildchild' weapon=3 special=0
+[51309f5a][game]: kill killer='1:talset' victim='0:RaoH' weapon=3 special=0
+[51309f5b][game]: pickup player='6:guits' item=1/0
+[51309f5d][game]: pickup player='2:Seraf' item=2/2
+[51309f5e][game]: kill killer='3:wildchild' victim='4:pipo' weapon=0 special=0
+[51309f5e][game]: kill killer='2:Seraf' victim='6:guits' weapon=2 special=0
+[51309f60][game]: pickup player='5:shaftmx' item=2/3
+[51309f60][game]: pickup player='3:wildchild' item=0/0
+[51309f61][game]: kill killer='0:RaoH' victim='2:Seraf' weapon=1 special=0
+[51309f61][game]: kill killer='5:shaftmx' victim='1:talset' weapon=3 special=0
+[51309f62][game]: pickup player='3:wildchild' item=1/0
+[51309f62][game]: pickup player='3:wildchild' item=1/0
+[51309f64][game]: pickup player='2:Seraf' item=1/0
+[51309f64][game]: pickup player='0:RaoH' item=0/0
+[51309f64][game]: pickup player='0:RaoH' item=0/0
+[51309f64][game]: pickup player='6:guits' item=3/5
+[51309f65][game]: pickup player='0:RaoH' item=1/0
+[51309f65][game]: pickup player='0:RaoH' item=0/0
+[51309f66][game]: kill killer='5:shaftmx' victim='1:talset' weapon=3 special=0
+[51309f66][game]: pickup player='0:RaoH' item=0/0
+[51309f68][game]: kill killer='5:shaftmx' victim='3:wildchild' weapon=3 special=0
+[51309f68][game]: pickup player='1:talset' item=1/0
+[51309f68][game]: pickup player='1:talset' item=1/0
+[51309f69][game]: pickup player='4:pipo' item=2/2
+[51309f69][game]: pickup player='5:shaftmx' item=2/3
+[51309f69][game]: kill killer='6:guits' victim='5:shaftmx' weapon=5 special=0
+[51309f69][game]: pickup player='4:pipo' item=1/0
+[51309f6a][game]: pickup player='4:pipo' item=1/0
+[51309f6b][game]: pickup player='2:Seraf' item=1/0
+[51309f6e][game]: pickup player='2:Seraf' item=2/2
+[51309f6e][game]: kill killer='3:wildchild' victim='4:pipo' weapon=0 special=0
+[51309f70][game]: kill killer='6:guits' victim='5:shaftmx' weapon=5 special=0
+[51309f70][game]: kill killer='2:Seraf' victim='0:RaoH' weapon=2 special=0
+[51309f71][game]: pickup player='1:talset' item=2/3
+[51309f72][game]: pickup player='6:guits' item=0/0
+[51309f74][game]: pickup player='2:Seraf' item=1/0
+[51309f74][game]: pickup player='2:Seraf' item=1/0
+[51309f75][game]: kill killer='4:pipo' victim='6:guits' weapon=1 special=0
+[51309f75][game]: pickup player='3:wildchild' item=0/0
+[51309f75][game]: pickup player='3:wildchild' item=1/0
+[51309f75][game]: pickup player='3:wildchild' item=0/0
+[51309f76][game]: kill killer='1:talset' victim='4:pipo' weapon=3 special=0
+[51309f78][game]: pickup player='1:talset' item=0/0
+[51309f79][game]: pickup player='1:talset' item=0/0
+[51309f7a][game]: pickup player='3:wildchild' item=2/3
+[51309f7a][game]: kill killer='6:guits' victim='1:talset' weapon=0 special=0
+[51309f7d][game]: pickup player='1:talset' item=1/0
+[51309f7d][game]: pickup player='1:talset' item=1/0
+[51309f7e][game]: kill killer='3:wildchild' victim='6:guits' weapon=3 special=0
+[51309f7e][game]: pickup player='0:RaoH' item=0/0
+[51309f80][game]: kill killer='3:wildchild' victim='2:Seraf' weapon=3 special=0
+[51309f81][game]: pickup player='5:shaftmx' item=2/3
+[51309f81][game]: pickup player='6:guits' item=1/0
+[51309f81][game]: pickup player='0:RaoH' item=2/2
+[51309f81][game]: pickup player='6:guits' item=1/0
+[51309f82][game]: pickup player='3:wildchild' item=0/0
+[51309f82][game]: pickup player='3:wildchild' item=0/0
+[51309f82][game]: pickup player='2:Seraf' item=2/2
+[51309f84][game]: kill killer='0:RaoH' victim='4:pipo' weapon=0 special=0
+[51309f86][game]: pickup player='6:guits' item=0/0
+[51309f87][game]: kill killer='2:Seraf' victim='3:wildchild' weapon=2 special=0
+[51309f88][game]: pickup player='2:Seraf' item=0/0
+[51309f89][game]: pickup player='2:Seraf' item=0/0
+[51309f89][game]: kill killer='5:shaftmx' victim='6:guits' weapon=3 special=0
+[51309f89][game]: kill killer='2:Seraf' victim='5:shaftmx' weapon=2 special=0
+[51309f8a][game]: pickup player='3:wildchild' item=0/0
+[51309f8a][game]: pickup player='4:pipo' item=0/0
+[51309f8b][game]: pickup player='6:guits' item=2/3
+[51309f8c][game]: pickup player='5:shaftmx' item=1/0
+[51309f8c][game]: pickup player='5:shaftmx' item=1/0
+[51309f8e][game]: kill killer='0:RaoH' victim='1:talset' weapon=0 special=0
+[51309f8e][game]: kill killer='4:pipo' victim='3:wildchild' weapon=1 special=0
+[51309f8f][game]: kill killer='6:guits' victim='4:pipo' weapon=3 special=0
+[51309f8f][game]: pickup player='5:shaftmx' item=1/0
+[51309f8f][game]: kill killer='6:guits' victim='0:RaoH' weapon=3 special=0
+[51309f90][game]: pickup player='6:guits' item=1/0
+[51309f90][game]: pickup player='6:guits' item=1/0
+[51309f90][game]: kill killer='2:Seraf' victim='6:guits' weapon=0 special=0
+[51309f90][game]: pickup player='1:talset' item=1/0
+[51309f91][game]: pickup player='1:talset' item=1/0
+[51309f91][game]: pickup player='4:pipo' item=2/2
+[51309f92][game]: pickup player='1:talset' item=2/2
+[51309f92][game]: pickup player='4:pipo' item=1/0
+[51309f92][game]: pickup player='4:pipo' item=1/0
+[51309f95][game]: pickup player='5:shaftmx' item=0/0
+[51309f96][game]: kill killer='5:shaftmx' victim='2:Seraf' weapon=0 special=0
+[51309f96][game]: kill killer='4:pipo' victim='0:RaoH' weapon=1 special=0
+[51309f97][game]: kill killer='5:shaftmx' victim='6:guits' weapon=0 special=0
+[51309f97][game]: pickup player='3:wildchild' item=2/3
+[51309f98][game]: pickup player='5:shaftmx' item=0/0
+[51309f9a][game]: pickup player='1:talset' item=2/3
+[51309f9b][game]: pickup player='5:shaftmx' item=0/0
+[51309f9b][game]: pickup player='3:wildchild' item=0/0
+[51309f9b][game]: pickup player='5:shaftmx' item=0/0
+[51309f9c][game]: pickup player='5:shaftmx' item=0/0
+[51309f9d][game]: kill killer='0:RaoH' victim='4:pipo' weapon=0 special=0
+[51309f9d][game]: pickup player='1:talset' item=1/0
+[51309f9d][game]: pickup player='1:talset' item=1/0
+[51309f9d][game]: kill killer='3:wildchild' victim='2:Seraf' weapon=3 special=0
+[51309fa0][game]: kill killer='2:Seraf' victim='3:wildchild' weapon=1 special=0
+[51309fa1][game]: pickup player='1:talset' item=0/0
+[51309fa1][game]: pickup player='1:talset' item=0/0
+[51309fa1][game]: pickup player='1:talset' item=0/0
+[51309fa1][game]: pickup player='1:talset' item=1/0
+[51309fa3][game]: kill killer='0:RaoH' victim='5:shaftmx' weapon=0 special=0
+[51309fa4][game]: pickup player='5:shaftmx' item=2/2
+[51309fa4][game]: pickup player='3:wildchild' item=1/0
+[51309fa4][game]: pickup player='3:wildchild' item=1/0
+[51309fa5][game]: pickup player='5:shaftmx' item=1/0
+[51309fa5][game]: pickup player='5:shaftmx' item=1/0
+[51309fa5][game]: pickup player='3:wildchild' item=2/2
+[51309fa6][game]: kill killer='0:RaoH' victim='4:pipo' weapon=0 special=0
+[51309fa8][game]: kill killer='5:shaftmx' victim='0:RaoH' weapon=2 special=0
+[51309fa8][game]: pickup player='6:guits' item=0/0
+[51309fa9][game]: pickup player='1:talset' item=2/3
+[51309fa9][game]: pickup player='3:wildchild' item=2/3
+[51309faa][game]: kill killer='5:shaftmx' victim='1:talset' weapon=2 special=0
+[51309faa][game]: kill killer='1:talset' victim='5:shaftmx' weapon=3 special=0
+[51309fac][game]: pickup player='6:guits' item=0/0
+[51309fac][game]: pickup player='2:Seraf' item=0/0
+[51309fac][game]: pickup player='2:Seraf' item=0/0
+[51309fac][game]: kill killer='3:wildchild' victim='2:Seraf' weapon=2 special=0
+[51309fac][game]: pickup player='1:talset' item=1/0
+[51309fad][game]: pickup player='1:talset' item=1/0
+[51309fae][game]: pickup player='5:shaftmx' item=1/0
+[51309fae][game]: pickup player='5:shaftmx' item=1/0
+[51309fb0][game]: kill killer='3:wildchild' victim='6:guits' weapon=3 special=0
+[51309fb1][game]: kill killer='0:RaoH' victim='4:pipo' weapon=0 special=0
+[51309fb2][game]: kill killer='3:wildchild' victim='2:Seraf' weapon=3 special=0
+[51309fb3][game]: kill killer='3:wildchild' victim='0:RaoH' weapon=3 special=0
+[51309fb4][game]: pickup player='2:Seraf' item=2/2
+[51309fb4][game]: pickup player='6:guits' item=2/2
+[51309fb7][game]: kill killer='5:shaftmx' victim='3:wildchild' weapon=0 special=0
+[51309fb8][game]: pickup player='5:shaftmx' item=0/0
+[51309fb9][game]: pickup player='5:shaftmx' item=0/0
+[51309fb9][game]: pickup player='5:shaftmx' item=1/0
+[51309fb9][game]: pickup player='5:shaftmx' item=0/0
+[51309fb9][game]: pickup player='3:wildchild' item=1/0
+[51309fb9][game]: pickup player='5:shaftmx' item=0/0
+[51309fb9][game]: pickup player='3:wildchild' item=1/0
+[51309fba][game]: pickup player='0:RaoH' item=2/3
+[51309fbb][game]: pickup player='5:shaftmx' item=2/3
+[51309fbb][game]: pickup player='1:talset' item=0/0
+[51309fbb][game]: pickup player='1:talset' item=0/0
+[51309fbb][game]: kill killer='0:RaoH' victim='4:pipo' weapon=3 special=0
+[51309fbc][game]: pickup player='1:talset' item=0/0
+[51309fbd][game]: pickup player='6:guits' item=0/0
+[51309fbd][game]: pickup player='6:guits' item=0/0
+[51309fbe][game]: pickup player='6:guits' item=0/0
+[51309fbf][game]: pickup player='4:pipo' item=1/0
+[51309fbf][game]: pickup player='4:pipo' item=1/0
+[51309fc0][game]: pickup player='2:Seraf' item=3/5
+[51309fc1][game]: kill killer='5:shaftmx' victim='1:talset' weapon=3 special=0
+[51309fc2][game]: kill killer='6:guits' victim='5:shaftmx' weapon=2 special=0
+[51309fc3][game]: kill killer='4:pipo' victim='0:RaoH' weapon=1 special=0
+[51309fc3][game]: kill killer='2:Seraf' victim='6:guits' weapon=5 special=0
+[51309fc4][game]: pickup player='1:talset' item=2/2
+[51309fc5][game]: pickup player='5:shaftmx' item=1/0
+[51309fc5][game]: pickup player='6:guits' item=2/2
+[51309fc6][game]: kill killer='1:talset' victim='0:RaoH' weapon=2 special=0
+[51309fc8][game]: kill killer='1:talset' victim='2:Seraf' weapon=2 special=0
+[51309fc9][game]: pickup player='1:talset' item=1/0
+[51309fc9][game]: kill killer='3:wildchild' victim='4:pipo' weapon=1 special=0
+[51309fc9][game]: pickup player='2:Seraf' item=1/0
+[51309fca][game]: pickup player='2:Seraf' item=1/0
+[51309fcc][game]: pickup player='5:shaftmx' item=0/0
+[51309fcc][game]: pickup player='5:shaftmx' item=0/0
+[51309fcc][game]: pickup player='5:shaftmx' item=1/0
+[51309fcc][game]: pickup player='5:shaftmx' item=0/0
+[51309fcd][game]: pickup player='3:wildchild' item=2/3
+[51309fce][game]: pickup player='5:shaftmx' item=2/3
+[51309fcf][game]: pickup player='5:shaftmx' item=0/0
+[51309fcf][game]: pickup player='5:shaftmx' item=0/0
+[51309fcf][game]: pickup player='1:talset' item=0/0
+[51309fd0][game]: kill killer='2:Seraf' victim='0:RaoH' weapon=0 special=0
+[51309fd0][game]: pickup player='3:wildchild' item=1/0
+[51309fd0][game]: pickup player='3:wildchild' item=1/0
+[51309fd0][game]: kill killer='5:shaftmx' victim='1:talset' weapon=3 special=0
+[51309fd1][game]: pickup player='0:RaoH' item=1/0
+[51309fd1][game]: pickup player='0:RaoH' item=1/0
+[51309fd2][game]: kill killer='5:shaftmx' victim='4:pipo' weapon=3 special=0
+[51309fd4][game]: kill killer='5:shaftmx' victim='5:shaftmx' weapon=3 special=0
+[51309fd6][game]: kill killer='3:wildchild' victim='2:Seraf' weapon=3 special=0
+[51309fd7][game]: pickup player='5:shaftmx' item=2/2
+[51309fd8][game]: kill killer='6:guits' victim='4:pipo' weapon=2 special=0
+[51309fd9][game]: kill killer='0:RaoH' victim='6:guits' weapon=0 special=0
+[51309fdb][game]: kill killer='5:shaftmx' victim='0:RaoH' weapon=2 special=0
+[51309fdb][game]: kill killer='2:Seraf' victim='3:wildchild' weapon=0 special=0
+[51309fdc][game]: pickup player='1:talset' item=2/3
+[51309fdd][game]: pickup player='5:shaftmx' item=2/2
+[51309fde][game]: pickup player='0:RaoH' item=2/3
+[51309fde][game]: pickup player='0:RaoH' item=1/0
+[51309fe0][game]: pickup player='3:wildchild' item=1/0
+[51309fe0][game]: kill killer='1:talset' victim='4:pipo' weapon=3 special=0
+[51309fe0][game]: kill killer='1:talset' victim='2:Seraf' weapon=3 special=0
+[51309fe0][game]: pickup player='3:wildchild' item=1/0
+[51309fe0][game]: pickup player='6:guits' item=0/0
+[51309fe0][game]: pickup player='6:guits' item=0/0
+[51309fe1][game]: pickup player='1:talset' item=1/0
+[51309fe1][game]: pickup player='1:talset' item=1/0
+[51309fe2][game]: pickup player='0:RaoH' item=0/0
+[51309fe2][game]: pickup player='0:RaoH' item=1/0
+[51309fe4][game]: kill killer='5:shaftmx' victim='3:wildchild' weapon=2 special=0
+[51309fe6][game]: pickup player='5:shaftmx' item=1/0
+[51309fe6][game]: pickup player='5:shaftmx' item=1/0
+[51309fe6][game]: pickup player='1:talset' item=0/0
+[51309fe8][game]: pickup player='3:wildchild' item=2/2
+[51309fe8][game]: pickup player='2:Seraf' item=0/0
+[51309fe8][game]: pickup player='2:Seraf' item=0/0
+[51309fe9][game]: kill killer='2:Seraf' victim='6:guits' weapon=0 special=0
+[51309fea][game]: pickup player='1:talset' item=1/0
+[51309fea][game]: pickup player='3:wildchild' item=0/0
+[51309fea][game]: kill killer='0:RaoH' victim='3:wildchild' weapon=3 special=0
+[51309fea][game]: pickup player='0:RaoH' item=0/0
+[51309fec][game]: pickup player='0:RaoH' item=0/0
+[51309fed][game]: pickup player='3:wildchild' item=2/3
+[51309fed][game]: kill killer='5:shaftmx' victim='6:guits' weapon=2 special=0
+[51309fee][game]: kill killer='4:pipo' victim='2:Seraf' weapon=0 special=0
+[51309fee][game]: kill killer='3:wildchild' victim='1:talset' weapon=3 special=0
+[51309fef][game]: pickup player='1:talset' item=2/2
+[51309ff0][game]: pickup player='2:Seraf' item=2/3
+[51309ff1][game]: pickup player='4:pipo' item=1/0
+[51309ff2][game]: kill killer='2:Seraf' victim='0:RaoH' weapon=3 special=0
+[51309ff2][game]: kill killer='3:wildchild' victim='4:pipo' weapon=3 special=0
+[51309ff3][game]: pickup player='6:guits' item=1/0
+[51309ff5][game]: kill killer='3:wildchild' victim='6:guits' weapon=3 special=0
+[51309ff6][game]: kill killer='3:wildchild' victim='5:shaftmx' weapon=3 special=0
+[51309ff7][game]: pickup player='6:guits' item=1/0
+[51309ff8][game]: pickup player='4:pipo' item=0/0
+[51309ff8][game]: pickup player='4:pipo' item=0/0
+[51309ffa][game]: kill killer='0:RaoH' victim='6:guits' weapon=1 special=0
+[51309ffa][game]: kill killer='3:wildchild' victim='4:pipo' weapon=0 special=0
+[51309ffa][game]: kill killer='5:shaftmx' victim='3:wildchild' weapon=0 special=0
+[51309ffa][game]: pickup player='1:talset' item=0/0
+[51309ffc][game]: pickup player='2:Seraf' item=1/0
+[51309fff][game]: kill killer='2:Seraf' victim='5:shaftmx' weapon=0 special=0
+[51309fff][game]: pickup player='4:pipo' item=0/0
+[51309fff][game]: pickup player='1:talset' item=2/3
+[5130a000][game]: pickup player='6:guits' item=2/2
+[5130a000][game]: pickup player='3:wildchild' item=1/0
+[5130a001][game]: pickup player='0:RaoH' item=2/2
+[5130a002][game]: pickup player='1:talset' item=0/0
+[5130a002][game]: pickup player='1:talset' item=0/0
+[5130a002][game]: pickup player='1:talset' item=1/0
+[5130a002][game]: pickup player='1:talset' item=0/0
+[5130a002][game]: pickup player='1:talset' item=0/0
+[5130a002][game]: pickup player='5:shaftmx' item=2/3
+[5130a003][game]: kill killer='1:talset' victim='3:wildchild' weapon=3 special=0
+[5130a004][game]: pickup player='2:Seraf' item=1/0
+[5130a004][game]: pickup player='2:Seraf' item=1/0
+[5130a004][game]: pickup player='4:pipo' item=0/0
+[5130a005][game]: pickup player='0:RaoH' item=0/0
+[5130a006][game]: kill killer='0:RaoH' victim='4:pipo' weapon=2 special=0
+[5130a006][game]: kill killer='1:talset' victim='5:shaftmx' weapon=3 special=0
+[5130a007][game]: kill killer='6:guits' victim='3:wildchild' weapon=2 special=0
+[5130a007][game]: pickup player='2:Seraf' item=0/0
+[5130a008][game]: pickup player='2:Seraf' item=0/0
+[5130a009][game]: pickup player='4:pipo' item=1/0
+[5130a009][game]: kill killer='1:talset' victim='2:Seraf' weapon=3 special=0
+[5130a009][game]: pickup player='5:shaftmx' item=1/0
+[5130a00a][game]: kill killer='1:talset' victim='1:talset' weapon=3 special=0
+[5130a00f][game]: pickup player='3:wildchild' item=1/0
+[5130a010][game]: pickup player='6:guits' item=2/2
+[5130a011][game]: pickup player='4:pipo' item=2/3
+[5130a011][game]: pickup player='1:talset' item=2/3
+[5130a011][game]: kill killer='0:RaoH' victim='6:guits' weapon=2 special=0
+[5130a012][game]: pickup player='0:RaoH' item=1/0
+[5130a013][game]: pickup player='0:RaoH' item=1/0
+[5130a014][game]: pickup player='6:guits' item=2/2
+[5130a014][game]: pickup player='2:Seraf' item=0/0
+[5130a015][game]: pickup player='1:talset' item=0/0
+[5130a016][game]: pickup player='2:Seraf' item=0/0
+[5130a017][game]: kill killer='2:Seraf' victim='3:wildchild' weapon=0 special=0
+[5130a017][game]: kill killer='6:guits' victim='4:pipo' weapon=2 special=0
+[5130a018][game]: pickup player='2:Seraf' item=0/0
+[5130a019][game]: kill killer='6:guits' victim='2:Seraf' weapon=2 special=0
+[5130a019][game]: kill killer='1:talset' victim='5:shaftmx' weapon=3 special=0
+[5130a019][game]: kill killer='3:wildchild' victim='0:RaoH' weapon=1 special=0
+[5130a01a][game]: pickup player='2:Seraf' item=1/0
+[5130a01a][game]: pickup player='2:Seraf' item=1/0
+[5130a01b][game]: pickup player='3:wildchild' item=3/5
+[5130a01c][game]: pickup player='5:shaftmx' item=1/0
+[5130a01c][game]: kill killer='1:talset' victim='6:guits' weapon=3 special=0
+[5130a01e][game]: kill killer='3:wildchild' victim='1:talset' weapon=5 special=0
+[5130a01f][game]: kill killer='3:wildchild' victim='0:RaoH' weapon=5 special=0
+[5130a020][game]: pickup player='5:shaftmx' item=2/3
+[5130a021][game]: pickup player='6:guits' item=2/2
+[5130a021][game]: kill killer='6:guits' victim='4:pipo' weapon=1 special=0
+[5130a023][game]: pickup player='3:wildchild' item=1/0
+[5130a024][game]: pickup player='0:RaoH' item=2/3
+[5130a025][game]: pickup player='5:shaftmx' item=2/2
+[5130a025][game]: pickup player='6:guits' item=1/0
+[5130a025][game]: pickup player='6:guits' item=1/0
+[5130a025][game]: pickup player='4:pipo' item=1/0
+[5130a025][game]: pickup player='4:pipo' item=1/0
+[5130a026][game]: kill killer='3:wildchild' victim='2:Seraf' weapon=5 special=0
+[5130a027][game]: pickup player='3:wildchild' item=0/0
+[5130a029][game]: kill killer='3:wildchild' victim='4:pipo' weapon=5 special=0
+[5130a02a][game]: pickup player='1:talset' item=0/0
+[5130a02b][game]: kill killer='2:Seraf' victim='1:talset' weapon=1 special=0
+[5130a02b][game]: kill killer='5:shaftmx' victim='2:Seraf' weapon=2 special=0
+[5130a02c][game]: pickup player='5:shaftmx' item=0/0
+[5130a02d][game]: kill killer='5:shaftmx' victim='2:Seraf' weapon=2 special=0
+[5130a02f][game]: pickup player='2:Seraf' item=2/3
+[5130a031][game]: pickup player='2:Seraf' item=0/0
+[5130a031][game]: pickup player='2:Seraf' item=0/0
+[5130a032][game]: kill killer='2:Seraf' victim='5:shaftmx' weapon=3 special=0
+[5130a032][game]: kill killer='2:Seraf' victim='3:wildchild' weapon=3 special=0
+[5130a032][game]: pickup player='2:Seraf' item=0/0
+[5130a032][game]: pickup player='2:Seraf' item=1/0
+[5130a032][game]: pickup player='2:Seraf' item=0/0
+[5130a032][game]: pickup player='5:shaftmx' item=2/2
+[5130a034][game]: kill killer='2:Seraf' victim='1:talset' weapon=3 special=0
+[5130a035][game]: pickup player='6:guits' item=1/0
+[5130a036][game]: pickup player='6:guits' item=2/2
+[5130a036][game]: pickup player='4:pipo' item=0/0
+[5130a037][game]: pickup player='1:talset' item=2/3
+[5130a037][game]: pickup player='5:shaftmx' item=1/0
+[5130a037][game]: pickup player='4:pipo' item=0/0
+[5130a037][game]: kill killer='5:shaftmx' victim='6:guits' weapon=2 special=0
+[5130a037][game]: pickup player='3:wildchild' item=1/0
+[5130a037][game]: kill killer='1:talset' victim='0:RaoH' weapon=3 special=0
+[5130a037][game]: pickup player='4:pipo' item=0/0
+[5130a037][game]: pickup player='3:wildchild' item=1/0
+[5130a039][game]: pickup player='1:talset' item=1/0
+[5130a039][game]: pickup player='1:talset' item=1/0
+[5130a03a][game]: kill killer='2:Seraf' victim='5:shaftmx' weapon=3 special=0
+[5130a03d][game]: kill killer='5:shaftmx' victim='2:Seraf' weapon=1 special=0
+[5130a03d][game]: kill killer='1:talset' victim='0:RaoH' weapon=3 special=0
+[5130a03e][game]: kill killer='3:wildchild' victim='4:pipo' weapon=1 special=0
+[5130a03f][game]: kill killer='2:Seraf' victim='6:guits' weapon=1 special=0
+[5130a03f][game]: pickup player='0:RaoH' item=2/3
+[5130a040][game]: pickup player='0:RaoH' item=1/0
+[5130a044][game]: pickup player='0:RaoH' item=1/0
+[5130a044][game]: kill killer='0:RaoH' victim='6:guits' weapon=3 special=0
+[5130a044][game]: pickup player='5:shaftmx' item=2/2
+[5130a045][game]: pickup player='3:wildchild' item=1/0
+[5130a045][game]: kill killer='0:RaoH' victim='0:RaoH' weapon=3 special=0
+[5130a046][game]: pickup player='6:guits' item=2/2
+[5130a046][game]: pickup player='1:talset' item=0/0
+[5130a047][game]: pickup player='1:talset' item=0/0
+[5130a047][game]: pickup player='1:talset' item=0/0
+[5130a048][game]: kill killer='0:RaoH' victim='2:Seraf' weapon=1 special=0
+[5130a048][game]: pickup player='5:shaftmx' item=0/0
+[5130a049][game]: pickup player='5:shaftmx' item=0/0
+[5130a049][game]: pickup player='5:shaftmx' item=0/0
+[5130a04a][game]: pickup player='2:Seraf' item=1/0
+[5130a04a][game]: pickup player='2:Seraf' item=1/0
+[5130a04a][game]: pickup player='4:pipo' item=2/3
+[5130a04b][game]: kill killer='5:shaftmx' victim='6:guits' weapon=2 special=0
+[5130a04d][game]: pickup player='3:wildchild' item=1/0
+[5130a04d][game]: pickup player='3:wildchild' item=1/0
+[5130a050][game]: pickup player='6:guits' item=2/3
+[5130a050][game]: kill killer='4:pipo' victim='4:pipo' weapon=3 special=0
+[5130a050][game]: kill killer='4:pipo' victim='3:wildchild' weapon=3 special=0
+[5130a052][game]: pickup player='3:wildchild' item=1/0
+[5130a052][game]: pickup player='3:wildchild' item=1/0
+[5130a054][game]: pickup player='5:shaftmx' item=1/0
+[5130a054][game]: pickup player='0:RaoH' item=2/2
+[5130a055][game]: pickup player='5:shaftmx' item=1/0
+[5130a055][game]: pickup player='3:wildchild' item=1/0
+[5130a057][game]: pickup player='4:pipo' item=0/0
+[5130a059][game]: kill killer='0:RaoH' victim='2:Seraf' weapon=2 special=0
+[5130a059][game]: pickup player='1:talset' item=2/3
+[5130a059][game]: pickup player='5:shaftmx' item=0/0
+[5130a05a][game]: pickup player='5:shaftmx' item=0/0
+[5130a05a][game]: pickup player='5:shaftmx' item=0/0
+[5130a05b][game]: kill killer='1:talset' victim='6:guits' weapon=3 special=0
+[5130a05b][game]: kill killer='1:talset' victim='1:talset' weapon=3 special=0
+[5130a05b][game]: pickup player='2:Seraf' item=2/2
+[5130a05e][game]: pickup player='1:talset' item=1/0
+[5130a05e][game]: pickup player='1:talset' item=1/0
+[5130a05f][game]: pickup player='3:wildchild' item=2/3
+[5130a060][game]: kill killer='6:guits' victim='0:RaoH' weapon=0 special=0
+[5130a062][game]: kill killer='2:Seraf' victim='4:pipo' weapon=2 special=0
+[5130a063][game]: kill killer='1:talset' victim='6:guits' weapon=1 special=0
+[5130a065][game]: pickup player='1:talset' item=0/0
+[5130a065][game]: pickup player='6:guits' item=2/2
+[5130a065][game]: kill killer='0:RaoH' victim='2:Seraf' weapon=0 special=0
+[5130a065][game]: pickup player='1:talset' item=1/0
+[5130a067][game]: pickup player='6:guits' item=1/0
+[5130a068][game]: pickup player='3:wildchild' item=1/0
+[5130a068][game]: pickup player='3:wildchild' item=1/0
+[5130a06a][game]: kill killer='6:guits' victim='0:RaoH' weapon=2 special=0
+[5130a06b][game]: kill killer='2:Seraf' victim='5:shaftmx' weapon=0 special=0
+[5130a06b][game]: pickup player='3:wildchild' item=2/2
+[5130a06d][game]: pickup player='0:RaoH' item=2/3
+[5130a06d][game]: pickup player='2:Seraf' item=0/0
+[5130a06e][game]: pickup player='3:wildchild' item=1/0
+[5130a06e][game]: pickup player='3:wildchild' item=1/0
+[5130a06f][game]: pickup player='1:talset' item=2/3
+[5130a06f][game]: pickup player='2:Seraf' item=0/0
+[5130a06f][game]: pickup player='4:pipo' item=0/0
+[5130a070][game]: pickup player='5:shaftmx' item=0/0
+[5130a070][game]: pickup player='5:shaftmx' item=0/0
+[5130a070][game]: pickup player='5:shaftmx' item=0/0
+[5130a071][game]: pickup player='1:talset' item=0/0
+[5130a071][game]: pickup player='1:talset' item=0/0
+[5130a071][game]: pickup player='1:talset' item=0/0
+[5130a073][game]: kill killer='2:Seraf' victim='4:pipo' weapon=0 special=0
+[5130a073][game]: kill killer='3:wildchild' victim='2:Seraf' weapon=2 special=0
+[5130a074][game]: pickup player='0:RaoH' item=1/0
+[5130a075][game]: kill killer='1:talset' victim='5:shaftmx' weapon=3 special=0
+[5130a075][game]: pickup player='0:RaoH' item=2/2
+[5130a076][game]: kill killer='0:RaoH' victim='6:guits' weapon=3 special=0
+[5130a077][game]: kill killer='1:talset' victim='1:talset' weapon=3 special=0
+[5130a078][game]: pickup player='2:Seraf' item=3/5
+[5130a07a][game]: pickup player='1:talset' item=1/0
+[5130a07a][game]: pickup player='1:talset' item=1/0
+[5130a07a][game]: kill killer='2:Seraf' victim='0:RaoH' weapon=5 special=0
+[5130a07c][game]: pickup player='6:guits' item=0/0
+[5130a07c][game]: pickup player='5:shaftmx' item=2/2
+[5130a07d][game]: pickup player='1:talset' item=2/3
+[5130a07e][game]: pickup player='6:guits' item=0/0
+[5130a07e][game]: kill killer='2:Seraf' victim='3:wildchild' weapon=5 special=0
+[5130a07f][game]: pickup player='2:Seraf' item=0/0
+[5130a07f][game]: kill killer='5:shaftmx' victim='4:pipo' weapon=2 special=0
+[5130a080][game]: pickup player='5:shaftmx' item=2/3
+[5130a080][game]: pickup player='3:wildchild' item=1/0
+[5130a080][game]: kill killer='2:Seraf' victim='6:guits' weapon=5 special=0
+[5130a081][game]: pickup player='1:talset' item=1/0
+[5130a081][game]: pickup player='1:talset' item=1/0
+[5130a081][game]: kill killer='2:Seraf' victim='0:RaoH' weapon=5 special=0
+[5130a084][game]: kill killer='5:shaftmx' victim='2:Seraf' weapon=3 special=0
+[5130a084][game]: pickup player='3:wildchild' item=1/0
+[5130a085][game]: pickup player='3:wildchild' item=1/0
+[5130a085][game]: pickup player='0:RaoH' item=2/2
+[5130a086][game]: kill killer='5:shaftmx' victim='1:talset' weapon=3 special=0
+[5130a088][game]: pickup player='1:talset' item=1/0
+[5130a089][game]: pickup player='6:guits' item=0/0
+[5130a089][game]: pickup player='6:guits' item=0/0
+[5130a089][game]: pickup player='6:guits' item=1/0
+[5130a089][game]: pickup player='6:guits' item=0/0
+[5130a089][game]: kill killer='3:wildchild' victim='2:Seraf' weapon=0 special=0
+[5130a08a][game]: pickup player='6:guits' item=0/0
+[5130a08b][game]: kill killer='3:wildchild' victim='4:pipo' weapon=0 special=0
+[5130a08d][game]: pickup player='3:wildchild' item=0/0
+[5130a08d][game]: kill killer='0:RaoH' victim='2:Seraf' weapon=2 special=0
+[5130a08d][game]: pickup player='5:shaftmx' item=2/3
+[5130a08e][game]: pickup player='4:pipo' item=2/2
+[5130a08e][game]: pickup player='1:talset' item=0/0
+[5130a08e][game]: pickup player='3:wildchild' item=0/0
+[5130a08f][game]: pickup player='2:Seraf' item=1/0
+[5130a08f][game]: kill killer='5:shaftmx' victim='0:RaoH' weapon=3 special=0
+[5130a08f][game]: pickup player='2:Seraf' item=1/0
+[5130a090][game]: kill killer='4:pipo' victim='6:guits' weapon=2 special=0
+[5130a090][game]: kill killer='3:wildchild' victim='1:talset' weapon=0 special=0
+[5130a091][game]: pickup player='5:shaftmx' item=2/3
+[5130a092][game]: pickup player='1:talset' item=1/0
+[5130a093][game]: kill killer='4:pipo' victim='3:wildchild' weapon=2 special=0
+[5130a095][game]: pickup player='1:talset' item=0/0
+[5130a095][game]: kill killer='5:shaftmx' victim='4:pipo' weapon=3 special=0
+[5130a095][game]: pickup player='3:wildchild' item=2/2
+[5130a096][game]: kill killer='5:shaftmx' victim='2:Seraf' weapon=3 special=0
+[5130a099][game]: pickup player='5:shaftmx' item=0/0
+[5130a09a][game]: kill killer='0:RaoH' victim='1:talset' weapon=0 special=0
+[5130a09a][game]: pickup player='5:shaftmx' item=0/0
+[5130a09b][game]: pickup player='4:pipo' item=0/0
+[5130a09b][game]: pickup player='4:pipo' item=0/0
+[5130a09b][game]: pickup player='4:pipo' item=1/0
+[5130a09c][game]: pickup player='5:shaftmx' item=1/0
+[5130a09c][game]: pickup player='4:pipo' item=0/0
+[5130a09c][game]: pickup player='1:talset' item=1/0
+[5130a09c][game]: pickup player='4:pipo' item=0/0
+[5130a09c][game]: pickup player='2:Seraf' item=1/0
+[5130a09d][game]: kill killer='3:wildchild' victim='4:pipo' weapon=2 special=0
+[5130a09e][game]: pickup player='0:RaoH' item=1/0
+[5130a09e][game]: pickup player='5:shaftmx' item=0/0
+[5130a09e][game]: pickup player='0:RaoH' item=1/0
+[5130a09e][game]: pickup player='5:shaftmx' item=0/0
+[5130a0a0][game]: pickup player='3:wildchild' item=2/3
+[5130a0a0][game]: pickup player='5:shaftmx' item=2/3
+[5130a0a0][game]: kill killer='2:Seraf' victim='0:RaoH' weapon=0 special=0
+[5130a0a1][game]: pickup player='4:pipo' item=2/2
+[5130a0a1][game]: kill killer='2:Seraf' victim='6:guits' weapon=0 special=0
+[5130a0a3][game]: kill killer='3:wildchild' victim='2:Seraf' weapon=3 special=0
+[5130a0a4][game]: kill killer='3:wildchild' victim='5:shaftmx' weapon=3 special=0
+[5130a0a4][game]: pickup player='2:Seraf' item=1/0
+[5130a0a5][game]: kill killer='4:pipo' victim='6:guits' weapon=2 special=0
+[5130a0a5][game]: pickup player='2:Seraf' item=2/2
+[5130a0a5][game]: pickup player='5:shaftmx' item=1/0
+[5130a0a6][game]: pickup player='3:wildchild' item=0/0
+[5130a0ab][game]: kill killer='2:Seraf' victim='0:RaoH' weapon=2 special=0
+[5130a0ab][game]: kill killer='4:pipo' victim='3:wildchild' weapon=2 special=0
+[5130a0ac][game]: pickup player='2:Seraf' item=1/0
+[5130a0ad][game]: kill killer='6:guits' victim='4:pipo' weapon=1 special=0
+[5130a0ad][game]: pickup player='5:shaftmx' item=0/0
+[5130a0ae][game]: pickup player='3:wildchild' item=1/0
+[5130a0af][game]: pickup player='6:guits' item=0/0
+[5130a0af][game]: pickup player='1:talset' item=2/3
+[5130a0b1][game]: pickup player='5:shaftmx' item=1/0
+[5130a0b1][game]: pickup player='5:shaftmx' item=1/0
+[5130a0b2][game]: pickup player='2:Seraf' item=2/2
+[5130a0b2][game]: pickup player='5:shaftmx' item=2/3
+[5130a0b3][game]: kill killer='5:shaftmx' victim='2:Seraf' weapon=3 special=0
+[5130a0b3][game]: pickup player='3:wildchild' item=0/0
+[5130a0b4][game]: pickup player='1:talset' item=1/0
+[5130a0b4][game]: pickup player='1:talset' item=1/0
+[5130a0b4][game]: pickup player='2:Seraf' item=2/2
+[5130a0b5][game]: kill killer='5:shaftmx' victim='3:wildchild' weapon=3 special=0
+[5130a0b5][game]: pickup player='6:guits' item=0/0
+[5130a0b5][game]: kill killer='0:RaoH' victim='6:guits' weapon=0 special=0
+[5130a0b7][game]: kill killer='0:RaoH' victim='4:pipo' weapon=0 special=0
+[5130a0b7][game]: pickup player='3:wildchild' item=1/0
+[5130a0b7][game]: kill killer='5:shaftmx' victim='0:RaoH' weapon=3 special=0
+[5130a0b9][game]: pickup player='0:RaoH' item=0/0
+[5130a0b9][game]: pickup player='6:guits' item=1/0
+[5130a0ba][game]: kill killer='1:talset' victim='4:pipo' weapon=3 special=0
+[5130a0ba][game]: pickup player='2:Seraf' item=0/0
+[5130a0bb][game]: kill killer='5:shaftmx' victim='1:talset' weapon=3 special=0
+[5130a0be][game]: pickup player='5:shaftmx' item=0/0
+[5130a0be][game]: kill killer='2:Seraf' victim='6:guits' weapon=2 special=0
+[5130a0bf][game]: pickup player='3:wildchild' item=2/3
+[5130a0bf][game]: kill killer='2:Seraf' victim='0:RaoH' weapon=2 special=0
+[5130a0c9][game]: dm6
+[5130a0c9][game]: start round type='DM' teamplay='0'
+[5130a0c9][datafile]: loading. filename='maps/dm6.map'
+[5130a0c9][datafile]: allocsize=3016
+[5130a0c9][datafile]: readsize=2720
+[5130a0c9][datafile]: swaplen=2740
+[5130a0c9][datafile]: item_size=2328
+[5130a0c9][datafile]: loading done. datafile='maps/dm6.map'
+[5130a0c9][server]: maps/dm6.map crc is 474da235
+[5130a0c9][datafile]: loading data index=17 size=559 uncompressed=28080
+[5130a0c9][server]: player is ready. ClientID=1 addr=94.143.112.83:55758
+[5130a0c9][server]: player is ready. ClientID=4 addr=94.143.112.83:43727
+[5130a0c9][server]: player is ready. ClientID=0 addr=94.143.112.83:55283
+[5130a0c9][server]: player is ready. ClientID=5 addr=94.143.112.83:42987
+[5130a0c9][server]: player is ready. ClientID=3 addr=94.143.112.83:47164
+[5130a0c9][server]: player is ready. ClientID=6 addr=94.143.112.83:45851
+[5130a0c9][server]: player is ready. ClientID=2 addr=94.143.112.83:54087
+[5130a0c9][server]: player has entered the game. ClientID=1 addr=94.143.112.83:55758
+[5130a0c9][chat]: *** 'talset' entered and joined the game
+[5130a0c9][game]: team_join player='1:talset' team=0
+[5130a0c9][server]: player has entered the game. ClientID=6 addr=94.143.112.83:45851
+[5130a0c9][chat]: *** 'guits' entered and joined the game
+[5130a0c9][game]: team_join player='6:guits' team=0
+[5130a0c9][server]: player has entered the game. ClientID=4 addr=94.143.112.83:43727
+[5130a0c9][chat]: *** 'pipo' entered and joined the game
+[5130a0c9][game]: team_join player='4:pipo' team=0
+[5130a0c9][server]: player has entered the game. ClientID=0 addr=94.143.112.83:55283
+[5130a0c9][chat]: *** 'RaoH' entered and joined the game
+[5130a0c9][game]: team_join player='0:RaoH' team=0
+[5130a0c9][server]: player has entered the game. ClientID=5 addr=94.143.112.83:42987
+[5130a0c9][chat]: *** 'shaftmx' entered and joined the game
+[5130a0c9][game]: team_join player='5:shaftmx' team=0
+[5130a0c9][server]: player has entered the game. ClientID=3 addr=94.143.112.83:47164
+[5130a0c9][chat]: *** 'wildchild' entered and joined the game
+[5130a0c9][game]: team_join player='3:wildchild' team=0
+[5130a0ca][server]: player has entered the game. ClientID=2 addr=94.143.112.83:54087
+[5130a0ca][chat]: *** 'Seraf' entered and joined the game
+[5130a0ca][game]: team_join player='2:Seraf' team=0
+[5130a0cc][game]: pickup player='0:RaoH' item=2/2
+[5130a0cc][game]: pickup player='5:shaftmx' item=2/3
+[5130a0cd][game]: pickup player='1:talset' item=2/2
+[5130a0ce][game]: pickup player='2:Seraf' item=1/0
+[5130a0cf][game]: pickup player='0:RaoH' item=1/0
+[5130a0cf][game]: pickup player='0:RaoH' item=1/0
+[5130a0cf][game]: pickup player='5:shaftmx' item=2/4
+[5130a0cf][game]: pickup player='2:Seraf' item=1/0
+[5130a0cf][game]: pickup player='2:Seraf' item=1/0
+[5130a0cf][game]: pickup player='4:pipo' item=2/3
+[5130a0d2][game]: pickup player='2:Seraf' item=2/2
+[5130a0d3][game]: pickup player='3:wildchild' item=1/0
+[5130a0d4][game]: kill killer='6:guits' victim='5:shaftmx' weapon=1 special=0
+[5130a0d4][game]: kill killer='1:talset' victim='3:wildchild' weapon=2 special=0
+[5130a0d4][game]: pickup player='2:Seraf' item=1/0
+[5130a0d5][game]: pickup player='2:Seraf' item=1/0
+[5130a0d5][game]: pickup player='2:Seraf' item=1/0
+[5130a0d6][game]: pickup player='4:pipo' item=1/0
+[5130a0d7][game]: pickup player='1:talset' item=0/0
+[5130a0d7][game]: pickup player='1:talset' item=0/0
+[5130a0d7][game]: kill killer='0:RaoH' victim='0:RaoH' weapon=-1 special=0
+[5130a0d8][game]: kill killer='6:guits' victim='6:guits' weapon=-1 special=0
+[5130a0da][game]: pickup player='4:pipo' item=0/0
+[5130a0da][game]: pickup player='4:pipo' item=0/0
+[5130a0db][game]: pickup player='4:pipo' item=0/0
+[5130a0db][game]: kill killer='2:Seraf' victim='2:Seraf' weapon=-1 special=0
+[5130a0db][game]: pickup player='4:pipo' item=0/0
+[5130a0dd][game]: pickup player='5:shaftmx' item=2/3
+[5130a0dd][game]: pickup player='2:Seraf' item=2/2
+[5130a0de][game]: kill killer='3:wildchild' victim='3:wildchild' weapon=-1 special=0
+[5130a0df][game]: pickup player='2:Seraf' item=1/0
+[5130a0df][game]: pickup player='6:guits' item=2/3
+[5130a0df][game]: pickup player='2:Seraf' item=1/0
+[5130a0e2][game]: pickup player='5:shaftmx' item=2/4
+[5130a0e3][game]: kill killer='2:Seraf' victim='4:pipo' weapon=0 special=0
+[5130a0e5][game]: kill killer='5:shaftmx' victim='1:talset' weapon=3 special=0
+[5130a0e5][game]: pickup player='3:wildchild' item=1/0
+[5130a0e5][game]: pickup player='3:wildchild' item=1/0
+[5130a0e6][game]: pickup player='3:wildchild' item=1/0
+[5130a0e6][game]: pickup player='0:RaoH' item=1/0
+[5130a0e6][game]: kill killer='2:Seraf' victim='6:guits' weapon=0 special=0
+[5130a0e6][game]: pickup player='0:RaoH' item=1/0
+[5130a0e6][game]: pickup player='0:RaoH' item=1/0
+[5130a0e6][game]: pickup player='0:RaoH' item=1/0
+[5130a0e7][game]: pickup player='3:wildchild' item=2/2
+[5130a0e7][game]: pickup player='0:RaoH' item=2/3
+[5130a0e8][game]: pickup player='5:shaftmx' item=0/0
+[5130a0e8][game]: pickup player='5:shaftmx' item=0/0
+[5130a0ec][game]: pickup player='3:wildchild' item=1/0
+[5130a0ec][game]: pickup player='3:wildchild' item=1/0
+[5130a0ec][game]: pickup player='5:shaftmx' item=2/3
+[5130a0ed][game]: pickup player='3:wildchild' item=1/0
+[5130a0ee][game]: pickup player='1:talset' item=2/3
+[5130a0ef][game]: kill killer='3:wildchild' victim='4:pipo' weapon=2 special=0
+[5130a0f0][game]: kill killer='6:guits' victim='2:Seraf' weapon=1 special=0
+[5130a0f2][game]: pickup player='4:pipo' item=0/0
+[5130a0f3][game]: pickup player='4:pipo' item=0/0
+[5130a0f3][game]: pickup player='3:wildchild' item=0/0
+[5130a0f3][game]: pickup player='3:wildchild' item=0/0
+[5130a0f4][game]: pickup player='5:shaftmx' item=0/0
+[5130a0f4][game]: pickup player='5:shaftmx' item=0/0
+[5130a0f4][game]: pickup player='1:talset' item=1/0
+[5130a0f5][game]: kill killer='5:shaftmx' victim='3:wildchild' weapon=3 special=0
+[5130a0f5][game]: pickup player='4:pipo' item=0/0
+[5130a0f5][game]: pickup player='1:talset' item=1/0
+[5130a0f5][game]: pickup player='4:pipo' item=0/0
+[5130a0f6][game]: pickup player='1:talset' item=2/2
+[5130a0f7][game]: pickup player='1:talset' item=2/4
+[5130a0f8][game]: kill killer='1:talset' victim='5:shaftmx' weapon=4 special=0
+[5130a0f8][game]: kill killer='0:RaoH' victim='2:Seraf' weapon=3 special=0
+[5130a0fa][game]: pickup player='5:shaftmx' item=1/0
+[5130a0fa][game]: pickup player='5:shaftmx' item=1/0
+[5130a0fb][game]: pickup player='5:shaftmx' item=1/0
+[5130a0fb][game]: pickup player='1:talset' item=0/0
+[5130a0fb][game]: pickup player='6:guits' item=1/0
+[5130a0fb][game]: pickup player='6:guits' item=1/0
+[5130a0fb][game]: pickup player='1:talset' item=0/0
+[5130a0fb][game]: kill killer='2:Seraf' victim='0:RaoH' weapon=1 special=0
+[5130a0fc][game]: pickup player='5:shaftmx' item=2/2
+[5130a0fc][game]: kill killer='1:talset' victim='3:wildchild' weapon=4 special=0
+[5130a0ff][game]: pickup player='5:shaftmx' item=2/3
+[5130a0ff][game]: pickup player='4:pipo' item=2/3
+[5130a102][game]: kill killer='5:shaftmx' victim='1:talset' weapon=3 special=0
+[5130a103][game]: pickup player='5:shaftmx' item=0/0
+[5130a103][game]: kill killer='3:wildchild' victim='3:wildchild' weapon=-1 special=0
+[5130a103][game]: pickup player='5:shaftmx' item=0/0
+[5130a103][game]: pickup player='5:shaftmx' item=0/0
+[5130a105][game]: pickup player='1:talset' item=1/0
+[5130a105][game]: pickup player='1:talset' item=1/0
+[5130a106][game]: pickup player='5:shaftmx' item=2/4
+[5130a106][game]: pickup player='0:RaoH' item=1/0
+[5130a106][game]: pickup player='0:RaoH' item=1/0
+[5130a106][game]: pickup player='0:RaoH' item=1/0
+[5130a106][game]: pickup player='0:RaoH' item=1/0
+[5130a107][game]: pickup player='0:RaoH' item=2/3
+[5130a107][game]: kill killer='5:shaftmx' victim='4:pipo' weapon=3 special=0
+[5130a107][game]: pickup player='6:guits' item=1/0
+[5130a10b][game]: pickup player='6:guits' item=2/2
+[5130a10d][game]: pickup player='5:shaftmx' item=1/0
+[5130a10d][game]: pickup player='5:shaftmx' item=1/0
+[5130a10e][game]: pickup player='1:talset' item=2/3
+[5130a10f][game]: pickup player='3:wildchild' item=2/2
+[5130a110][game]: kill killer='6:guits' victim='4:pipo' weapon=2 special=0
+[5130a111][game]: pickup player='1:talset' item=0/0
+[5130a111][game]: pickup player='1:talset' item=0/0
+[5130a111][game]: pickup player='1:talset' item=0/0
+[5130a111][game]: pickup player='3:wildchild' item=2/3
+[5130a111][game]: kill killer='0:RaoH' victim='6:guits' weapon=3 special=0
+[5130a113][game]: pickup player='1:talset' item=0/0
+[5130a113][game]: pickup player='1:talset' item=0/0
+[5130a113][game]: pickup player='1:talset' item=0/0
+[5130a113][game]: pickup player='5:shaftmx' item=0/0
+[5130a115][game]: pickup player='1:talset' item=1/0
+[5130a115][game]: pickup player='1:talset' item=1/0
+[5130a115][game]: pickup player='1:talset' item=1/0
+[5130a115][game]: kill killer='5:shaftmx' victim='3:wildchild' weapon=4 special=0
+[5130a116][game]: pickup player='1:talset' item=2/2
+[5130a117][game]: pickup player='5:shaftmx' item=2/4
+[5130a118][game]: pickup player='6:guits' item=1/0
+[5130a119][game]: pickup player='5:shaftmx' item=0/0
+[5130a119][game]: pickup player='5:shaftmx' item=0/0
+[5130a11a][game]: pickup player='5:shaftmx' item=0/0
+[5130a11a][game]: pickup player='5:shaftmx' item=0/0
+[5130a11a][game]: pickup player='4:pipo' item=0/0
+[5130a11c][game]: kill killer='2:Seraf' victim='4:pipo' weapon=0 special=0
+[5130a11c][game]: kill killer='1:talset' victim='2:Seraf' weapon=3 special=0
+[5130a11c][game]: kill killer='1:talset' victim='5:shaftmx' weapon=3 special=0
+[5130a11d][game]: pickup player='0:RaoH' item=1/0
+[5130a11d][game]: pickup player='0:RaoH' item=1/0
+[5130a11d][game]: kill killer='3:wildchild' victim='3:wildchild' weapon=-1 special=0
+[5130a11e][game]: pickup player='5:shaftmx' item=2/2
+[5130a120][game]: pickup player='2:Seraf' item=2/2
+[5130a120][game]: kill killer='5:shaftmx' victim='1:talset' weapon=2 special=0
+[5130a121][game]: pickup player='6:guits' item=2/3
+[5130a125][game]: kill killer='4:pipo' victim='6:guits' weapon=1 special=0
+[5130a126][game]: pickup player='3:wildchild' item=2/3
+[5130a126][game]: kill killer='4:pipo' victim='2:Seraf' weapon=1 special=0
+[5130a128][game]: kill killer='3:wildchild' victim='0:RaoH' weapon=3 special=0
+[5130a129][game]: pickup player='2:Seraf' item=3/5
+[5130a129][game]: kill killer='5:shaftmx' victim='5:shaftmx' weapon=-1 special=0
+[5130a12a][game]: pickup player='4:pipo' item=1/0
+[5130a12a][game]: pickup player='0:RaoH' item=2/2
+[5130a12a][game]: pickup player='4:pipo' item=1/0
+[5130a12a][game]: pickup player='4:pipo' item=1/0
+[5130a12b][game]: kill killer='3:wildchild' victim='1:talset' weapon=3 special=0
+[5130a12c][game]: pickup player='0:RaoH' item=1/0
+[5130a12c][game]: pickup player='5:shaftmx' item=1/0
+[5130a12c][game]: pickup player='5:shaftmx' item=1/0
+[5130a12c][game]: pickup player='5:shaftmx' item=1/0
+[5130a12c][game]: pickup player='5:shaftmx' item=1/0
+[5130a12c][game]: pickup player='0:RaoH' item=1/0
+[5130a12c][game]: pickup player='5:shaftmx' item=2/3
+[5130a12c][game]: pickup player='0:RaoH' item=1/0
+[5130a12e][game]: pickup player='4:pipo' item=2/2
+[5130a12f][game]: pickup player='1:talset' item=2/4
+[5130a131][game]: pickup player='5:shaftmx' item=0/0
+[5130a131][game]: pickup player='5:shaftmx' item=0/0
+[5130a131][game]: pickup player='5:shaftmx' item=0/0
+[5130a131][game]: pickup player='5:shaftmx' item=0/0
+[5130a132][game]: pickup player='3:wildchild' item=2/3
+[5130a132][game]: pickup player='5:shaftmx' item=0/0
+[5130a132][game]: pickup player='5:shaftmx' item=0/0
+[5130a132][game]: kill killer='5:shaftmx' victim='1:talset' weapon=3 special=0
+[5130a132][game]: kill killer='0:RaoH' victim='4:pipo' weapon=2 special=0
+[5130a135][game]: kill killer='3:wildchild' victim='5:shaftmx' weapon=3 special=0
+[5130a136][game]: pickup player='5:shaftmx' item=2/2
+[5130a136][game]: kill killer='2:Seraf' victim='4:pipo' weapon=5 special=0
+[5130a136][game]: pickup player='0:RaoH' item=0/0
+[5130a137][game]: pickup player='0:RaoH' item=0/0
+[5130a139][game]: kill killer='5:shaftmx' victim='3:wildchild' weapon=2 special=0
+[5130a13b][game]: pickup player='6:guits' item=1/0
+[5130a13d][game]: pickup player='5:shaftmx' item=2/2
+[5130a13d][game]: pickup player='0:RaoH' item=1/0
+[5130a13d][game]: pickup player='0:RaoH' item=1/0
+[5130a13d][game]: pickup player='0:RaoH' item=1/0
+[5130a13d][game]: pickup player='0:RaoH' item=1/0
+[5130a13e][game]: pickup player='2:Seraf' item=2/2
+[5130a13e][game]: pickup player='0:RaoH' item=2/3
+[5130a13f][game]: pickup player='3:wildchild' item=1/0
+[5130a140][game]: pickup player='3:wildchild' item=1/0
+[5130a141][game]: pickup player='1:talset' item=0/0
+[5130a141][game]: pickup player='2:Seraf' item=2/3
+[5130a141][game]: pickup player='1:talset' item=0/0
+[5130a141][game]: kill killer='6:guits' victim='2:Seraf' weapon=0 special=0
+[5130a141][game]: pickup player='1:talset' item=2/4
+[5130a141][game]: pickup player='4:pipo' item=2/3
+[5130a142][game]: pickup player='6:guits' item=0/0
+[5130a142][game]: pickup player='6:guits' item=0/0
+[5130a143][game]: kill killer='3:wildchild' victim='1:talset' weapon=1 special=0
+[5130a144][game]: pickup player='6:guits' item=0/0
+[5130a145][game]: pickup player='6:guits' item=0/0
+[5130a145][game]: pickup player='4:pipo' item=1/0
+[5130a148][game]: kill killer='0:RaoH' victim='5:shaftmx' weapon=3 special=0
+[5130a148][game]: pickup player='2:Seraf' item=1/0
+[5130a148][game]: pickup player='2:Seraf' item=1/0
+[5130a149][game]: kill killer='0:RaoH' victim='3:wildchild' weapon=3 special=0
+[5130a149][game]: kill killer='0:RaoH' victim='6:guits' weapon=3 special=0
+[5130a14c][game]: kill killer='3:wildchild' victim='0:RaoH' weapon=1 special=0
+[5130a14d][game]: kill killer='3:wildchild' victim='4:pipo' weapon=1 special=0
+[5130a150][game]: pickup player='6:guits' item=2/3
+[5130a151][game]: pickup player='3:wildchild' item=2/4
+[5130a151][game]: pickup player='5:shaftmx' item=2/3
+[5130a151][game]: pickup player='2:Seraf' item=0/0
+[5130a151][game]: pickup player='0:RaoH' item=1/0
+[5130a151][game]: pickup player='0:RaoH' item=1/0
+[5130a151][game]: pickup player='0:RaoH' item=1/0
+[5130a151][game]: pickup player='2:Seraf' item=0/0
+[5130a152][game]: pickup player='2:Seraf' item=0/0
+[5130a152][game]: pickup player='2:Seraf' item=0/0
+[5130a152][game]: kill killer='6:guits' victim='1:talset' weapon=0 special=0
+[5130a153][game]: pickup player='3:wildchild' item=0/0
+[5130a153][game]: kill killer='5:shaftmx' victim='3:wildchild' weapon=3 special=0
+[5130a153][game]: kill killer='5:shaftmx' victim='2:Seraf' weapon=3 special=0
+[5130a153][game]: pickup player='0:RaoH' item=2/2
+[5130a154][game]: pickup player='1:talset' item=2/2
+[5130a155][game]: pickup player='5:shaftmx' item=0/0
+[5130a156][game]: kill killer='1:talset' victim='5:shaftmx' weapon=2 special=0
+[5130a156][game]: kill killer='5:shaftmx' victim='1:talset' weapon=3 special=0
+[5130a156][game]: pickup player='6:guits' item=0/0
+[5130a157][game]: pickup player='6:guits' item=0/0
+[5130a158][game]: kill killer='0:RaoH' victim='2:Seraf' weapon=2 special=0
+[5130a158][game]: pickup player='3:wildchild' item=1/0
+[5130a158][game]: pickup player='6:guits' item=0/0
+[5130a158][game]: pickup player='6:guits' item=0/0
+[5130a15b][game]: kill killer='4:pipo' victim='4:pipo' weapon=-1 special=0
+[5130a15b][game]: pickup player='6:guits' item=1/0
+[5130a15b][game]: pickup player='6:guits' item=1/0
+[5130a15b][game]: pickup player='6:guits' item=1/0
+[5130a15b][game]: pickup player='6:guits' item=1/0
+[5130a15c][game]: kill killer='3:wildchild' victim='1:talset' weapon=0 special=0
+[5130a15d][game]: pickup player='2:Seraf' item=2/2
+[5130a15d][game]: pickup player='6:guits' item=2/3
+[5130a160][game]: pickup player='5:shaftmx' item=1/0
+[5130a160][game]: kill killer='2:Seraf' victim='0:RaoH' weapon=2 special=0
+[5130a160][game]: pickup player='5:shaftmx' item=1/0
+[5130a161][game]: pickup player='3:wildchild' item=1/0
+[5130a162][game]: pickup player='5:shaftmx' item=2/3
+[5130a162][game]: kill killer='0:RaoH' victim='0:RaoH' weapon=-1 special=0
+[5130a163][game]: pickup player='1:talset' item=2/3
+[5130a164][game]: pickup player='5:shaftmx' item=0/0
+[5130a164][game]: pickup player='5:shaftmx' item=0/0
+[5130a164][game]: pickup player='5:shaftmx' item=0/0
+[5130a164][game]: pickup player='5:shaftmx' item=0/0
+[5130a164][game]: pickup player='5:shaftmx' item=0/0
+[5130a165][game]: kill killer='2:Seraf' victim='6:guits' weapon=2 special=0
+[5130a165][game]: pickup player='5:shaftmx' item=2/4
+[5130a166][game]: pickup player='3:wildchild' item=2/2
+[5130a166][game]: pickup player='2:Seraf' item=1/0
+[5130a169][game]: pickup player='4:pipo' item=2/2
+[5130a16a][game]: pickup player='1:talset' item=0/0
+[5130a16a][game]: pickup player='6:guits' item=1/0
+[5130a16a][game]: pickup player='6:guits' item=1/0
+[5130a16b][game]: pickup player='0:RaoH' item=1/0
+[5130a16b][game]: kill killer='5:shaftmx' victim='5:shaftmx' weapon=-1 special=0
+[5130a16b][game]: pickup player='6:guits' item=1/0
+[5130a16b][game]: pickup player='6:guits' item=1/0
+[5130a16b][game]: kill killer='1:talset' victim='1:talset' weapon=3 special=0
+[5130a16d][game]: pickup player='6:guits' item=2/3
+[5130a16d][game]: kill killer='3:wildchild' victim='2:Seraf' weapon=0 special=0
+[5130a16f][game]: pickup player='1:talset' item=2/2
+[5130a171][game]: kill killer='0:RaoH' victim='3:wildchild' weapon=0 special=0
+[5130a171][game]: kill killer='1:talset' victim='4:pipo' weapon=2 special=0
+[5130a172][game]: pickup player='5:shaftmx' item=2/3
+[5130a174][game]: pickup player='0:RaoH' item=0/0
+[5130a174][game]: pickup player='0:RaoH' item=0/0
+[5130a174][game]: pickup player='0:RaoH' item=0/0
+[5130a174][game]: pickup player='3:wildchild' item=2/3
+[5130a175][game]: kill killer='0:RaoH' victim='1:talset' weapon=0 special=0
+[5130a176][game]: kill killer='6:guits' victim='6:guits' weapon=3 special=0
+[5130a176][game]: pickup player='0:RaoH' item=2/4
+[5130a176][game]: pickup player='5:shaftmx' item=0/0
+[5130a176][game]: pickup player='1:talset' item=2/2
+[5130a177][game]: pickup player='5:shaftmx' item=0/0
+[5130a177][game]: kill killer='5:shaftmx' victim='0:RaoH' weapon=3 special=0
+[5130a178][game]: pickup player='6:guits' item=2/2
+[5130a178][game]: pickup player='3:wildchild' item=1/0
+[5130a178][game]: pickup player='3:wildchild' item=1/0
+[5130a178][game]: kill killer='5:shaftmx' victim='1:talset' weapon=3 special=0
+[5130a178][game]: pickup player='3:wildchild' item=1/0
+[5130a17a][game]: kill killer='5:shaftmx' victim='2:Seraf' weapon=3 special=0
+[5130a17b][game]: pickup player='5:shaftmx' item=0/0
+[5130a17b][game]: kill killer='3:wildchild' victim='6:guits' weapon=3 special=0
+[5130a17b][game]: pickup player='1:talset' item=1/0
+[5130a17c][game]: pickup player='1:talset' item=1/0
+[5130a17c][game]: kill killer='4:pipo' victim='5:shaftmx' weapon=1 special=0
+[5130a17f][game]: pickup player='3:wildchild' item=0/0
+[5130a17f][game]: pickup player='3:wildchild' item=0/0
+[5130a17f][game]: kill killer='2:Seraf' victim='4:pipo' weapon=0 special=0
+[5130a180][game]: pickup player='3:wildchild' item=0/0
+[5130a181][game]: pickup player='3:wildchild' item=0/0
+[5130a181][game]: pickup player='3:wildchild' item=0/0
+[5130a181][game]: pickup player='3:wildchild' item=0/0
+[5130a182][game]: pickup player='4:pipo' item=2/2
+[5130a182][game]: pickup player='5:shaftmx' item=1/0
+[5130a182][game]: pickup player='5:shaftmx' item=1/0
+[5130a182][game]: pickup player='5:shaftmx' item=1/0
+[5130a182][game]: pickup player='5:shaftmx' item=1/0
+[5130a183][game]: pickup player='5:shaftmx' item=2/3
+[5130a184][game]: pickup player='4:pipo' item=3/5
+[5130a185][game]: pickup player='3:wildchild' item=1/0
+[5130a186][game]: pickup player='2:Seraf' item=0/0
+[5130a186][game]: pickup player='2:Seraf' item=0/0
+[5130a186][game]: pickup player='2:Seraf' item=0/0
+[5130a186][game]: pickup player='5:shaftmx' item=0/0
+[5130a187][game]: pickup player='5:shaftmx' item=2/4
+[5130a187][game]: pickup player='2:Seraf' item=0/0
+[5130a187][game]: pickup player='1:talset' item=2/3
+[5130a187][game]: pickup player='6:guits' item=2/2
+[5130a188][game]: kill killer='6:guits' victim='0:RaoH' weapon=0 special=0
+[5130a189][game]: pickup player='4:pipo' item=2/3
+[5130a189][game]: kill killer='3:wildchild' victim='6:guits' weapon=3 special=0
+[5130a18a][game]: kill killer='5:shaftmx' victim='2:Seraf' weapon=3 special=0
+[5130a18b][game]: kill killer='4:pipo' victim='5:shaftmx' weapon=5 special=0
+[5130a18b][game]: pickup player='1:talset' item=1/0
+[5130a18b][game]: pickup player='1:talset' item=1/0
+[5130a18c][game]: pickup player='1:talset' item=1/0
+[5130a18c][game]: pickup player='4:pipo' item=0/0
+[5130a18c][game]: kill killer='3:wildchild' victim='3:wildchild' weapon=-1 special=0
+[5130a18d][game]: pickup player='2:Seraf' item=1/0
+[5130a18d][game]: pickup player='2:Seraf' item=1/0
+[5130a18e][game]: pickup player='0:RaoH' item=1/0
+[5130a190][game]: pickup player='1:talset' item=1/0
+[5130a191][game]: pickup player='1:talset' item=1/0
+[5130a191][game]: pickup player='1:talset' item=1/0
+[5130a192][game]: kill killer='4:pipo' victim='2:Seraf' weapon=5 special=0
+[5130a192][game]: kill killer='4:pipo' victim='6:guits' weapon=5 special=0
+[5130a193][game]: kill killer='1:talset' victim='4:pipo' weapon=3 special=0
+[5130a195][game]: kill killer='0:RaoH' victim='5:shaftmx' weapon=1 special=0
+[5130a196][game]: pickup player='2:Seraf' item=1/0
+[5130a196][game]: pickup player='0:RaoH' item=0/0
+[5130a197][game]: pickup player='0:RaoH' item=2/4
+[5130a198][game]: pickup player='4:pipo' item=2/2
+[5130a198][game]: pickup player='0:RaoH' item=0/0
+[5130a198][game]: pickup player='0:RaoH' item=0/0
+[5130a198][game]: pickup player='5:shaftmx' item=1/0
+[5130a198][game]: pickup player='5:shaftmx' item=1/0
+[5130a199][game]: pickup player='5:shaftmx' item=1/0
+[5130a199][game]: pickup player='0:RaoH' item=0/0
+[5130a199][game]: pickup player='5:shaftmx' item=1/0
+[5130a199][game]: pickup player='5:shaftmx' item=2/3
+[5130a199][game]: pickup player='0:RaoH' item=0/0
+[5130a199][game]: kill killer='3:wildchild' victim='3:wildchild' weapon=-1 special=0
+[5130a19a][game]: pickup player='2:Seraf' item=2/3
+[5130a19b][game]: kill killer='4:pipo' victim='6:guits' weapon=2 special=0
+[5130a19b][game]: kill killer='2:Seraf' victim='0:RaoH' weapon=3 special=0
+[5130a19e][game]: pickup player='1:talset' item=2/3
+[5130a19f][game]: kill killer='1:talset' victim='1:talset' weapon=3 special=0
+[5130a1a0][game]: pickup player='3:wildchild' item=1/0
+[5130a1a0][game]: pickup player='3:wildchild' item=1/0
+[5130a1a1][game]: pickup player='3:wildchild' item=2/2
+[5130a1a1][game]: pickup player='1:talset' item=1/0
+[5130a1a1][game]: pickup player='1:talset' item=1/0
+[5130a1a1][game]: pickup player='1:talset' item=1/0
+[5130a1a2][game]: kill killer='0:RaoH' victim='6:guits' weapon=1 special=0
+[5130a1a3][game]: kill killer='5:shaftmx' victim='2:Seraf' weapon=3 special=0
+[5130a1a4][game]: pickup player='0:RaoH' item=1/0
+[5130a1a5][game]: kill killer='5:shaftmx' victim='1:talset' weapon=3 special=0
+[5130a1a5][game]: pickup player='5:shaftmx' item=0/0
+[5130a1a6][game]: pickup player='2:Seraf' item=1/0
+[5130a1a6][game]: kill killer='5:shaftmx' victim='3:wildchild' weapon=3 special=0
+[5130a1a6][game]: pickup player='0:RaoH' item=2/4
+[5130a1a7][game]: kill killer='5:shaftmx' victim='5:shaftmx' weapon=-1 special=0
+[5130a1a7][game]: pickup player='4:pipo' item=0/0
+[5130a1a7][game]: pickup player='1:talset' item=2/2
+[5130a1a8][game]: pickup player='0:RaoH' item=0/0
+[5130a1a8][game]: pickup player='0:RaoH' item=0/0
+[5130a1a8][game]: pickup player='0:RaoH' item=0/0
+[5130a1a8][game]: pickup player='4:pipo' item=0/0
+[5130a1a8][game]: kill killer='0:RaoH' victim='4:pipo' weapon=1 special=0
+[5130a1a8][game]: pickup player='6:guits' item=1/0
+[5130a1a8][game]: pickup player='6:guits' item=1/0
+[5130a1a9][game]: pickup player='6:guits' item=1/0
+[5130a1a9][game]: pickup player='6:guits' item=1/0
+[5130a1a9][game]: pickup player='6:guits' item=2/3
+[5130a1aa][game]: pickup player='2:Seraf' item=2/3
+[5130a1ae][game]: kill killer='2:Seraf' victim='2:Seraf' weapon=-1 special=0
+[5130a1af][game]: pickup player='5:shaftmx' item=2/2
+[5130a1af][game]: kill killer='0:RaoH' victim='1:talset' weapon=4 special=0
+[5130a1b1][game]: pickup player='1:talset' item=2/2
+[5130a1b2][game]: pickup player='2:Seraf' item=2/3
+[5130a1b2][game]: kill killer='0:RaoH' victim='3:wildchild' weapon=4 special=0
+[5130a1b4][game]: pickup player='3:wildchild' item=1/0
+[5130a1b4][game]: kill killer='1:talset' victim='0:RaoH' weapon=2 special=0
+[5130a1b5][game]: pickup player='3:wildchild' item=1/0
+[5130a1b5][game]: pickup player='3:wildchild' item=1/0
+[5130a1b5][game]: pickup player='2:Seraf' item=1/0
+[5130a1b5][game]: pickup player='2:Seraf' item=1/0
+[5130a1b6][game]: pickup player='1:talset' item=0/0
+[5130a1b6][game]: pickup player='1:talset' item=2/4
+[5130a1b7][game]: pickup player='0:RaoH' item=1/0
+[5130a1b7][game]: pickup player='0:RaoH' item=1/0
+[5130a1b7][game]: pickup player='1:talset' item=0/0
+[5130a1b7][game]: pickup player='1:talset' item=0/0
+[5130a1b7][game]: pickup player='1:talset' item=0/0
+[5130a1b8][game]: pickup player='1:talset' item=0/0
+[5130a1b8][game]: kill killer='2:Seraf' victim='5:shaftmx' weapon=3 special=0
+[5130a1b9][game]: pickup player='2:Seraf' item=2/3
+[5130a1bb][game]: kill killer='2:Seraf' victim='2:Seraf' weapon=-1 special=0
+[5130a1bc][game]: kill killer='2:Seraf' victim='1:talset' weapon=3 special=0
+[5130a1bd][game]: pickup player='3:wildchild' item=0/0
+[5130a1be][game]: pickup player='1:talset' item=2/2
+[5130a1bf][game]: pickup player='1:talset' item=1/0
+[5130a1bf][game]: pickup player='5:shaftmx' item=1/0
+[5130a1bf][game]: pickup player='5:shaftmx' item=1/0
+[5130a1bf][game]: pickup player='5:shaftmx' item=1/0
+[5130a1bf][game]: pickup player='5:shaftmx' item=1/0
+[5130a1bf][game]: pickup player='5:shaftmx' item=2/3
+[5130a1bf][game]: pickup player='1:talset' item=1/0
+[5130a1c0][game]: pickup player='4:pipo' item=2/2
+[5130a1c0][game]: pickup player='1:talset' item=1/0
+[5130a1c1][game]: kill killer='0:RaoH' victim='0:RaoH' weapon=-1 special=0
+[5130a1c4][game]: pickup player='1:talset' item=2/3
+[5130a1c4][game]: kill killer='2:Seraf' victim='4:pipo' weapon=0 special=0
+[5130a1c4][game]: kill killer='6:guits' victim='3:wildchild' weapon=3 special=0
+[5130a1c5][game]: pickup player='3:wildchild' item=2/2
+[5130a1c6][game]: kill killer='6:guits' victim='5:shaftmx' weapon=3 special=0
+[5130a1c6][game]: pickup player='2:Seraf' item=1/0
+[5130a1c6][game]: pickup player='2:Seraf' item=1/0
+[5130a1c6][game]: pickup player='2:Seraf' item=1/0
+[5130a1c6][game]: pickup player='6:guits' item=0/0
+[5130a1c7][game]: pickup player='6:guits' item=0/0
+[5130a1c7][game]: pickup player='4:pipo' item=0/0
+[5130a1c7][game]: pickup player='4:pipo' item=0/0
+[5130a1c7][game]: pickup player='3:wildchild' item=2/4
+[5130a1c7][game]: pickup player='6:guits' item=0/0
+[5130a1c8][game]: pickup player='6:guits' item=0/0
+[5130a1c8][game]: pickup player='3:wildchild' item=0/0
+[5130a1c8][game]: kill killer='3:wildchild' victim='6:guits' weapon=2 special=0
+[5130a1ca][game]: kill killer='4:pipo' victim='0:RaoH' weapon=1 special=0
+[5130a1cc][game]: pickup player='5:shaftmx' item=2/3
+[5130a1cc][game]: kill killer='3:wildchild' victim='1:talset' weapon=4 special=0
+[5130a1cd][game]: pickup player='4:pipo' item=0/0
+[5130a1cd][game]: kill killer='5:shaftmx' victim='2:Seraf' weapon=3 special=0
+[5130a1cd][game]: pickup player='3:wildchild' item=0/0
+[5130a1ce][game]: pickup player='1:talset' item=1/0
+[5130a1cf][game]: pickup player='4:pipo' item=0/0
+[5130a1d0][game]: pickup player='2:Seraf' item=0/0
+[5130a1d0][game]: pickup player='1:talset' item=1/0
+[5130a1d0][game]: kill killer='2:Seraf' victim='4:pipo' weapon=0 special=0
+[5130a1d1][game]: kill killer='0:RaoH' victim='3:wildchild' weapon=1 special=0
+[5130a1d2][game]: kill killer='5:shaftmx' victim='0:RaoH' weapon=3 special=0
+[5130a1d2][game]: pickup player='2:Seraf' item=2/2
+[5130a1d3][game]: pickup player='2:Seraf' item=1/0
+[5130a1d4][game]: pickup player='2:Seraf' item=1/0
+[5130a1d4][game]: kill killer='6:guits' victim='5:shaftmx' weapon=0 special=0
+[5130a1d4][game]: pickup player='2:Seraf' item=1/0
+[5130a1d5][game]: pickup player='3:wildchild' item=2/2
+[5130a1d6][game]: pickup player='0:RaoH' item=2/2
+[5130a1d7][game]: pickup player='4:pipo' item=2/3
+[5130a1d7][game]: pickup player='5:shaftmx' item=1/0
+[5130a1d8][game]: pickup player='5:shaftmx' item=1/0
+[5130a1d8][game]: pickup player='5:shaftmx' item=1/0
+[5130a1d8][game]: pickup player='5:shaftmx' item=2/3
+[5130a1d9][game]: pickup player='6:guits' item=2/4
+[5130a1d9][game]: pickup player='2:Seraf' item=1/0
+[5130a1da][game]: pickup player='1:talset' item=1/0
+[5130a1da][game]: pickup player='1:talset' item=1/0
+[5130a1db][game]: pickup player='6:guits' item=0/0
+[5130a1dc][game]: pickup player='6:guits' item=0/0
+[5130a1dc][game]: pickup player='6:guits' item=0/0
+[5130a1dd][game]: pickup player='3:wildchild' item=2/3
+[5130a1dd][game]: pickup player='6:guits' item=0/0
+[5130a1dd][game]: pickup player='6:guits' item=0/0
+[5130a1de][game]: kill killer='2:Seraf' victim='1:talset' weapon=2 special=0
+[5130a1de][game]: pickup player='5:shaftmx' item=0/0
+[5130a1e0][game]: kill killer='3:wildchild' victim='3:wildchild' weapon=-1 special=0
+[5130a1e0][game]: pickup player='1:talset' item=1/0
+[5130a1e0][game]: pickup player='1:talset' item=1/0
+[5130a1e0][game]: pickup player='1:talset' item=1/0
+[5130a1e2][game]: kill killer='0:RaoH' victim='4:pipo' weapon=2 special=0
+[5130a1e4][game]: pickup player='5:shaftmx' item=3/5
+[5130a1e5][game]: kill killer='0:RaoH' victim='2:Seraf' weapon=2 special=0
+[5130a1e6][game]: pickup player='4:pipo' item=2/2
+[5130a1e6][game]: pickup player='5:shaftmx' item=2/2
+[5130a1e7][game]: kill killer='5:shaftmx' victim='3:wildchild' weapon=5 special=0
+[5130a1e7][game]: kill killer='4:pipo' victim='0:RaoH' weapon=2 special=0
+[5130a1e8][game]: pickup player='2:Seraf' item=2/2
+[5130a1e9][game]: pickup player='1:talset' item=2/4
+[5130a1eb][game]: kill killer='4:pipo' victim='6:guits' weapon=2 special=0
+[5130a1ec][game]: pickup player='4:pipo' item=2/3
+[5130a1ec][game]: pickup player='2:Seraf' item=0/0
+[5130a1ec][game]: pickup player='2:Seraf' item=0/0
+[5130a1ec][game]: kill killer='5:shaftmx' victim='4:pipo' weapon=5 special=0
+[5130a1ec][game]: pickup player='2:Seraf' item=0/0
+[5130a1ec][game]: pickup player='0:RaoH' item=2/3
+[5130a1ed][game]: pickup player='2:Seraf' item=0/0
+[5130a1ed][game]: pickup player='2:Seraf' item=0/0
+[5130a1ee][game]: pickup player='2:Seraf' item=0/0
+[5130a1f0][game]: kill killer='5:shaftmx' victim='2:Seraf' weapon=5 special=0
+[5130a1f0][game]: pickup player='0:RaoH' item=1/0
+[5130a1f1][game]: pickup player='3:wildchild' item=1/0
+[5130a1f1][game]: pickup player='4:pipo' item=1/0
+[5130a1f1][game]: pickup player='3:wildchild' item=1/0
+[5130a1f1][game]: pickup player='3:wildchild' item=1/0
+[5130a1f1][game]: pickup player='4:pipo' item=1/0
+[5130a1f2][game]: pickup player='4:pipo' item=1/0
+[5130a1f2][game]: kill killer='1:talset' victim='1:talset' weapon=-1 special=0
+[5130a1f3][game]: pickup player='2:Seraf' item=1/0
+[5130a1f3][game]: pickup player='2:Seraf' item=1/0
+[5130a1f6][game]: pickup player='3:wildchild' item=2/2
+[5130a1f6][game]: kill killer='5:shaftmx' victim='0:RaoH' weapon=3 special=0
+[5130a1f9][game]: pickup player='5:shaftmx' item=2/4
+[5130a1f9][game]: pickup player='1:talset' item=2/2
+[5130a1fb][game]: kill killer='1:talset' victim='5:shaftmx' weapon=2 special=0
+[5130a1fc][game]: pickup player='1:talset' item=0/0
+[5130a1fc][game]: kill killer='3:wildchild' victim='4:pipo' weapon=0 special=0
+[5130a1fc][game]: pickup player='1:talset' item=0/0
+[5130a1fc][game]: pickup player='1:talset' item=0/0
+[5130a1fc][game]: pickup player='1:talset' item=0/0
+[5130a1fd][game]: pickup player='6:guits' item=2/3
+[5130a1fd][game]: pickup player='5:shaftmx' item=2/2
+[5130a200][game]: pickup player='5:shaftmx' item=2/3
+[5130a201][game]: pickup player='6:guits' item=0/0
+[5130a202][game]: pickup player='3:wildchild' item=1/0
+[5130a202][game]: pickup player='2:Seraf' item=1/0
+[5130a202][game]: pickup player='2:Seraf' item=1/0
+[5130a204][game]: kill killer='6:guits' victim='0:RaoH' weapon=3 special=0
+[5130a205][game]: pickup player='1:talset' item=0/0
+[5130a205][game]: pickup player='1:talset' item=0/0
+[5130a205][game]: pickup player='4:pipo' item=1/0
+[5130a205][game]: pickup player='4:pipo' item=1/0
+[5130a205][game]: pickup player='6:guits' item=0/0
+[5130a206][game]: pickup player='1:talset' item=0/0
+[5130a207][game]: kill killer='5:shaftmx' victim='6:guits' weapon=3 special=0
+[5130a208][game]: pickup player='1:talset' item=1/0
+[5130a208][game]: pickup player='1:talset' item=1/0
+[5130a209][game]: pickup player='1:talset' item=1/0
+[5130a20b][game]: pickup player='1:talset' item=0/0
+[5130a20b][game]: pickup player='5:shaftmx' item=2/4
+[5130a20b][game]: pickup player='1:talset' item=0/0
+[5130a20b][game]: pickup player='1:talset' item=0/0
+[5130a20d][game]: pickup player='4:pipo' item=1/0
+[5130a20d][game]: pickup player='5:shaftmx' item=0/0
+[5130a20d][game]: pickup player='4:pipo' item=1/0
+[5130a20d][game]: pickup player='0:RaoH' item=2/2
+[5130a20d][game]: pickup player='5:shaftmx' item=0/0
+[5130a20d][game]: pickup player='5:shaftmx' item=0/0
+[5130a20e][game]: pickup player='5:shaftmx' item=0/0
+[5130a20f][game]: kill killer='2:Seraf' victim='3:wildchild' weapon=0 special=0
+[5130a20f][game]: pickup player='5:shaftmx' item=2/3
+[5130a210][game]: kill killer='5:shaftmx' victim='2:Seraf' weapon=3 special=0
+[5130a210][game]: pickup player='1:talset' item=2/3
+[5130a212][game]: kill killer='5:shaftmx' victim='2:Seraf' weapon=3 special=0
+[5130a214][game]: kill killer='4:pipo' victim='0:RaoH' weapon=1 special=0
+[5130a214][game]: kill killer='1:talset' victim='6:guits' weapon=3 special=0
+[5130a214][game]: kill killer='1:talset' victim='4:pipo' weapon=3 special=0
+[5130a214][game]: pickup player='2:Seraf' item=1/0
+[5130a214][game]: pickup player='5:shaftmx' item=0/0
+[5130a214][game]: pickup player='2:Seraf' item=1/0
+[5130a215][game]: pickup player='2:Seraf' item=1/0
+[5130a215][game]: pickup player='5:shaftmx' item=0/0
+[5130a216][game]: pickup player='0:RaoH' item=2/2
+[5130a216][game]: kill killer='1:talset' victim='5:shaftmx' weapon=3 special=0
+[5130a218][game]: pickup player='2:Seraf' item=2/2
+[5130a219][game]: pickup player='6:guits' item=1/0
+[5130a219][game]: pickup player='6:guits' item=1/0
+[5130a219][game]: pickup player='6:guits' item=2/3
+[5130a219][game]: kill killer='0:RaoH' victim='4:pipo' weapon=2 special=0
+[5130a21a][game]: kill killer='1:talset' victim='5:shaftmx' weapon=3 special=0
+[5130a21b][game]: pickup player='0:RaoH' item=1/0
+[5130a21b][game]: pickup player='0:RaoH' item=1/0
+[5130a21b][game]: pickup player='1:talset' item=2/4
+[5130a21d][game]: pickup player='1:talset' item=2/2
+[5130a21f][game]: pickup player='3:wildchild' item=1/0
+[5130a21f][game]: kill killer='0:RaoH' victim='1:talset' weapon=2 special=0
+[5130a21f][game]: pickup player='3:wildchild' item=1/0
+[5130a21f][game]: pickup player='3:wildchild' item=1/0
+[5130a220][game]: kill killer='4:pipo' victim='5:shaftmx' weapon=1 special=0
+[5130a222][game]: pickup player='0:RaoH' item=0/0
+[5130a223][game]: pickup player='1:talset' item=2/3
+[5130a223][game]: pickup player='5:shaftmx' item=2/3
+[5130a224][game]: kill killer='6:guits' victim='4:pipo' weapon=3 special=0
+[5130a224][game]: pickup player='3:wildchild' item=1/0
+[5130a225][game]: pickup player='3:wildchild' item=1/0
+[5130a226][game]: pickup player='0:RaoH' item=0/0
+[5130a226][game]: pickup player='0:RaoH' item=0/0
+[5130a226][game]: pickup player='0:RaoH' item=0/0
+[5130a226][game]: pickup player='0:RaoH' item=0/0
+[5130a226][game]: pickup player='0:RaoH' item=0/0
+[5130a227][game]: kill killer='5:shaftmx' victim='1:talset' weapon=3 special=0
+[5130a227][game]: kill killer='5:shaftmx' victim='0:RaoH' weapon=3 special=0
+[5130a229][game]: kill killer='6:guits' victim='6:guits' weapon=3 special=0
+[5130a229][game]: kill killer='6:guits' victim='2:Seraf' weapon=3 special=0
+[5130a22b][game]: pickup player='2:Seraf' item=1/0
+[5130a22b][game]: pickup player='2:Seraf' item=1/0
+[5130a22c][game]: pickup player='2:Seraf' item=1/0
+[5130a22d][game]: pickup player='0:RaoH' item=2/2
+[5130a230][game]: pickup player='0:RaoH' item=2/4
+[5130a230][game]: kill killer='2:Seraf' victim='4:pipo' weapon=1 special=0
+[5130a230][game]: kill killer='3:wildchild' victim='5:shaftmx' weapon=0 special=0
+[5130a231][game]: pickup player='0:RaoH' item=0/0
+[5130a232][game]: pickup player='3:wildchild' item=2/3
+[5130a232][game]: pickup player='1:talset' item=2/3
+[5130a235][game]: pickup player='2:Seraf' item=0/0
+[5130a236][game]: pickup player='4:pipo' item=2/2
+[5130a236][game]: pickup player='1:talset' item=0/0
+[5130a236][game]: pickup player='6:guits' item=0/0
+[5130a237][game]: pickup player='1:talset' item=0/0
+[5130a237][game]: kill killer='0:RaoH' victim='0:RaoH' weapon=-1 special=0
+[5130a237][game]: pickup player='6:guits' item=0/0
+[5130a238][game]: pickup player='6:guits' item=0/0
+[5130a238][game]: pickup player='6:guits' item=0/0
+[5130a238][game]: pickup player='1:talset' item=1/0
+[5130a238][game]: pickup player='1:talset' item=1/0
+[5130a239][game]: pickup player='1:talset' item=1/0
+[5130a239][game]: kill killer='2:Seraf' victim='3:wildchild' weapon=0 special=0
+[5130a239][game]: kill killer='6:guits' victim='2:Seraf' weapon=0 special=0
+[5130a23a][game]: pickup player='5:shaftmx' item=1/0
+[5130a23a][game]: pickup player='5:shaftmx' item=1/0
+[5130a23a][game]: pickup player='5:shaftmx' item=1/0
+[5130a23a][game]: pickup player='5:shaftmx' item=1/0
+[5130a23a][game]: pickup player='5:shaftmx' item=2/3
+[5130a23a][game]: pickup player='1:talset' item=1/0
+[5130a23b][game]: pickup player='1:talset' item=1/0
+[5130a23b][game]: pickup player='2:Seraf' item=2/2
+[5130a23e][game]: kill killer='0:RaoH' victim='6:guits' weapon=1 special=0
+[5130a23f][game]: pickup player='0:RaoH' item=2/4
+[5130a23f][game]: kill killer='2:Seraf' victim='4:pipo' weapon=2 special=0
+[5130a241][game]: pickup player='3:wildchild' item=2/3
+[5130a241][game]: pickup player='5:shaftmx' item=0/0
+[5130a241][game]: pickup player='1:talset' item=1/0
+[5130a241][game]: pickup player='1:talset' item=1/0
+[5130a241][game]: pickup player='1:talset' item=1/0
+[5130a241][game]: pickup player='0:RaoH' item=2/2
+[5130a243][game]: pickup player='2:Seraf' item=1/0
+[5130a245][game]: kill killer='0:RaoH' victim='6:guits' weapon=2 special=0
+[5130a245][game]: pickup player='5:shaftmx' item=0/0
+[5130a245][game]: pickup player='1:talset' item=0/0
+[5130a245][game]: pickup player='1:talset' item=0/0
+[5130a246][game]: pickup player='2:Seraf' item=2/3
+[5130a248][game]: pickup player='1:talset' item=0/0
+[5130a248][game]: pickup player='4:pipo' item=1/0
+[5130a248][game]: pickup player='1:talset' item=0/0
+[5130a248][game]: pickup player='6:guits' item=2/2
+[5130a249][game]: pickup player='1:talset' item=0/0
+[5130a249][game]: pickup player='0:RaoH' item=0/0
+[5130a249][game]: pickup player='4:pipo' item=1/0
+[5130a249][game]: pickup player='4:pipo' item=1/0
+[5130a249][game]: pickup player='0:RaoH' item=0/0
+[5130a249][game]: pickup player='3:wildchild' item=0/0
+[5130a249][game]: kill killer='3:wildchild' victim='0:RaoH' weapon=3 special=0
+[5130a24b][game]: pickup player='3:wildchild' item=0/0
+[5130a24c][game]: pickup player='2:Seraf' item=1/0
+[5130a24d][game]: pickup player='5:shaftmx' item=3/5
+[5130a24e][game]: pickup player='2:Seraf' item=1/0
+[5130a24e][game]: pickup player='1:talset' item=1/0
+[5130a24f][game]: pickup player='3:wildchild' item=2/4
+[5130a250][game]: pickup player='6:guits' item=2/3
+[5130a251][game]: pickup player='3:wildchild' item=0/0
+[5130a251][game]: kill killer='1:talset' victim='1:talset' weapon=-1 special=0
+[5130a251][game]: kill killer='5:shaftmx' victim='4:pipo' weapon=5 special=0
+[5130a252][game]: pickup player='2:Seraf' item=1/0
+[5130a252][game]: kill killer='2:Seraf' victim='0:RaoH' weapon=3 special=0
+[5130a254][game]: kill killer='5:shaftmx' victim='6:guits' weapon=5 special=0
+[5130a254][game]: pickup player='3:wildchild' item=0/0
+[5130a256][game]: pickup player='2:Seraf' item=2/2
+[5130a256][game]: kill killer='5:shaftmx' victim='3:wildchild' weapon=5 special=0
+[5130a258][game]: pickup player='6:guits' item=1/0
+[5130a259][game]: pickup player='6:guits' item=1/0
+[5130a259][game]: pickup player='6:guits' item=1/0
+[5130a25a][game]: pickup player='3:wildchild' item=2/3
+[5130a25b][game]: kill killer='6:guits' victim='5:shaftmx' weapon=1 special=0
+[5130a25c][game]: pickup player='3:wildchild' item=1/0
+[5130a25d][game]: pickup player='1:talset' item=0/0
+[5130a25d][game]: pickup player='5:shaftmx' item=1/0
+[5130a25d][game]: pickup player='5:shaftmx' item=1/0
+[5130a25e][game]: pickup player='5:shaftmx' item=1/0
+[5130a25e][game]: pickup player='5:shaftmx' item=1/0
+[5130a25e][game]: pickup player='1:talset' item=0/0
+[5130a25e][game]: pickup player='1:talset' item=0/0
+[5130a25e][game]: pickup player='5:shaftmx' item=2/3
+[5130a25f][game]: pickup player='1:talset' item=1/0
+[5130a260][game]: pickup player='1:talset' item=1/0
+[5130a260][game]: pickup player='1:talset' item=1/0
+[5130a261][game]: pickup player='0:RaoH' item=2/4
+[5130a261][game]: kill killer='3:wildchild' victim='2:Seraf' weapon=3 special=0
+[5130a261][game]: pickup player='0:RaoH' item=0/0
+[5130a262][game]: pickup player='1:talset' item=2/2
+[5130a262][game]: pickup player='5:shaftmx' item=2/3
+[5130a263][game]: kill killer='5:shaftmx' victim='6:guits' weapon=3 special=0
+[5130a266][game]: pickup player='3:wildchild' item=0/0
+[5130a266][game]: pickup player='3:wildchild' item=0/0
+[5130a266][game]: pickup player='3:wildchild' item=0/0
+[5130a266][game]: pickup player='3:wildchild' item=0/0
+[5130a266][game]: pickup player='1:talset' item=1/0
+[5130a267][game]: kill killer='5:shaftmx' victim='3:wildchild' weapon=3 special=0
+[5130a268][game]: pickup player='5:shaftmx' item=0/0
+[5130a26a][game]: kill killer='1:talset' victim='0:RaoH' weapon=2 special=0
+[5130a26b][game]: pickup player='6:guits' item=2/3
+[5130a26b][game]: kill killer='5:shaftmx' victim='4:pipo' weapon=3 special=0
+[5130a26d][game]: pickup player='1:talset' item=1/0
+[5130a26d][game]: pickup player='1:talset' item=1/0
+[5130a26d][game]: pickup player='6:guits' item=2/2
+[5130a270][game]: pickup player='1:talset' item=2/4
+[5130a271][game]: pickup player='4:pipo' item=1/0
+[5130a271][game]: pickup player='1:talset' item=0/0
+[5130a271][game]: pickup player='2:Seraf' item=2/3
+[5130a272][game]: pickup player='4:pipo' item=1/0
+[5130a272][game]: pickup player='4:pipo' item=1/0
+[5130a272][game]: pickup player='5:shaftmx' item=1/0
+[5130a272][game]: pickup player='5:shaftmx' item=1/0
+[5130a272][game]: pickup player='5:shaftmx' item=1/0
+[5130a272][game]: pickup player='5:shaftmx' item=1/0
+[5130a272][game]: kill killer='0:RaoH' victim='6:guits' weapon=1 special=0
+[5130a272][game]: pickup player='5:shaftmx' item=2/3
+[5130a273][game]: pickup player='3:wildchild' item=2/2
+[5130a275][game]: kill killer='0:RaoH' victim='1:talset' weapon=1 special=0
+[5130a275][game]: kill killer='4:pipo' victim='2:Seraf' weapon=1 special=0
+[5130a275][game]: pickup player='0:RaoH' item=0/0
+[5130a275][game]: pickup player='0:RaoH' item=0/0
+[5130a276][game]: pickup player='0:RaoH' item=0/0
+[5130a276][game]: pickup player='0:RaoH' item=0/0
+[5130a278][game]: pickup player='2:Seraf' item=1/0
+[5130a278][game]: pickup player='2:Seraf' item=1/0
+[5130a278][game]: pickup player='1:talset' item=2/2
+[5130a279][game]: pickup player='1:talset' item=1/0
+[5130a279][game]: pickup player='1:talset' item=1/0
+[5130a279][game]: pickup player='1:talset' item=1/0
+[5130a279][game]: kill killer='5:shaftmx' victim='6:guits' weapon=3 special=0
+[5130a279][game]: kill killer='5:shaftmx' victim='0:RaoH' weapon=3 special=0
+[5130a27a][game]: kill killer='4:pipo' victim='5:shaftmx' weapon=1 special=0
+[5130a27a][game]: pickup player='4:pipo' item=0/0
+[5130a27b][game]: kill killer='3:wildchild' victim='4:pipo' weapon=2 special=0
+[5130a27c][game]: kill killer='2:Seraf' victim='3:wildchild' weapon=0 special=0
+[5130a27d][game]: pickup player='1:talset' item=1/0
+[5130a27d][game]: pickup player='1:talset' item=1/0
+[5130a27e][game]: pickup player='0:RaoH' item=2/3
+[5130a280][game]: kill killer='3:wildchild' victim='0:RaoH' weapon=1 special=0
+[5130a280][game]: pickup player='1:talset' item=2/2
+[5130a282][game]: pickup player='2:Seraf' item=2/4
+[5130a282][game]: pickup player='2:Seraf' item=0/0
+[5130a283][game]: pickup player='0:RaoH' item=1/0
+[5130a283][game]: kill killer='1:talset' victim='2:Seraf' weapon=2 special=0
+[5130a283][game]: pickup player='0:RaoH' item=1/0
+[5130a283][game]: pickup player='0:RaoH' item=1/0
+[5130a284][game]: pickup player='5:shaftmx' item=2/3
+[5130a285][game]: kill killer='5:shaftmx' victim='3:wildchild' weapon=3 special=0
+[5130a286][game]: pickup player='5:shaftmx' item=0/0
+[5130a286][game]: pickup player='5:shaftmx' item=0/0
+[5130a286][game]: pickup player='5:shaftmx' item=0/0
+[5130a287][game]: pickup player='5:shaftmx' item=0/0
+[5130a287][game]: pickup player='6:guits' item=1/0
+[5130a287][game]: pickup player='6:guits' item=1/0
+[5130a287][game]: pickup player='6:guits' item=1/0
+[5130a287][game]: pickup player='6:guits' item=1/0
+[5130a288][game]: pickup player='6:guits' item=2/3
+[5130a28a][game]: kill killer='4:pipo' victim='4:pipo' weapon=-1 special=0
+[5130a28a][game]: kill killer='5:shaftmx' victim='2:Seraf' weapon=3 special=0
+[5130a28b][game]: pickup player='5:shaftmx' item=0/0
+[5130a28c][game]: pickup player='3:wildchild' item=1/0
+[5130a28c][game]: pickup player='3:wildchild' item=1/0
+[5130a28c][game]: pickup player='3:wildchild' item=1/0
+[5130a28c][game]: pickup player='6:guits' item=2/2
+[5130a28d][game]: pickup player='1:talset' item=2/3
+[5130a28e][game]: kill killer='2:Seraf' victim='0:RaoH' weapon=0 special=0
+[5130a28e][game]: pickup player='4:pipo' item=2/2
+[5130a28f][game]: pickup player='5:shaftmx' item=2/2
+[5130a28f][game]: kill killer='6:guits' victim='3:wildchild' weapon=3 special=0
+[5130a290][game]: kill killer='6:guits' victim='4:pipo' weapon=3 special=0
+[5130a291][game]: pickup player='1:talset' item=0/0
+[5130a291][game]: kill killer='5:shaftmx' victim='2:Seraf' weapon=3 special=0
+[5130a291][game]: kill killer='5:shaftmx' victim='5:shaftmx' weapon=3 special=0
+[5130a291][game]: pickup player='1:talset' item=0/0
+[5130a292][game]: pickup player='2:Seraf' item=1/0
+[5130a292][game]: pickup player='5:shaftmx' item=2/4
+[5130a293][game]: pickup player='2:Seraf' item=1/0
+[5130a293][game]: pickup player='2:Seraf' item=1/0
+[5130a295][game]: kill killer='5:shaftmx' victim='0:RaoH' weapon=4 special=0
+[5130a295][game]: pickup player='5:shaftmx' item=2/3
+[5130a296][game]: pickup player='1:talset' item=1/0
+[5130a296][game]: pickup player='1:talset' item=1/0
+[5130a297][game]: kill killer='2:Seraf' victim='3:wildchild' weapon=0 special=0
+[5130a298][game]: pickup player='5:shaftmx' item=0/0
+[5130a299][game]: pickup player='5:shaftmx' item=0/0
+[5130a299][game]: pickup player='5:shaftmx' item=0/0
+[5130a299][game]: pickup player='5:shaftmx' item=0/0
+[5130a29b][game]: pickup player='5:shaftmx' item=0/0
+[5130a29b][game]: kill killer='5:shaftmx' victim='2:Seraf' weapon=3 special=0
+[5130a29b][game]: kill killer='0:RaoH' victim='4:pipo' weapon=1 special=0
+[5130a29b][game]: pickup player='1:talset' item=0/0
+[5130a29c][game]: kill killer='6:guits' victim='5:shaftmx' weapon=3 special=0
+[5130a29d][game]: kill killer='1:talset' victim='0:RaoH' weapon=3 special=0
+[5130a29d][game]: pickup player='3:wildchild' item=2/2
+[5130a29e][game]: kill killer='1:talset' victim='6:guits' weapon=3 special=0
+[5130a2a0][game]: pickup player='0:RaoH' item=2/3
+[5130a2a0][game]: kill killer='3:wildchild' victim='2:Seraf' weapon=2 special=0
+[5130a2a2][game]: kill killer='3:wildchild' victim='1:talset' weapon=2 special=0
+[5130a2a2][game]: pickup player='5:shaftmx' item=2/2
+[5130a2a3][game]: pickup player='2:Seraf' item=1/0
+[5130a2a3][game]: pickup player='2:Seraf' item=1/0
+[5130a2a3][game]: pickup player='6:guits' item=1/0
+[5130a2a3][game]: pickup player='6:guits' item=1/0
+[5130a2a3][game]: pickup player='6:guits' item=1/0
+[5130a2a3][game]: pickup player='6:guits' item=1/0
+[5130a2a3][game]: pickup player='2:Seraf' item=1/0
+[5130a2a3][game]: pickup player='3:wildchild' item=2/4
+[5130a2a3][game]: pickup player='6:guits' item=2/3
+[5130a2a4][game]: kill killer='0:RaoH' victim='4:pipo' weapon=3 special=0
+[5130a2a5][game]: pickup player='0:RaoH' item=2/2
+[5130a2a5][game]: pickup player='1:talset' item=1/0
+[5130a2a6][game]: pickup player='1:talset' item=1/0
+[5130a2a6][game]: pickup player='1:talset' item=1/0
+[5130a2a6][game]: pickup player='2:Seraf' item=2/3
+[5130a2a7][game]: pickup player='4:pipo' item=1/0
+[5130a2a7][game]: pickup player='4:pipo' item=1/0
+[5130a2a7][game]: kill killer='0:RaoH' victim='0:RaoH' weapon=3 special=0
+[5130a2a7][game]: kill killer='0:RaoH' victim='3:wildchild' weapon=3 special=0
+[5130a2a9][game]: pickup player='0:RaoH' item=1/0
+[5130a2a9][game]: pickup player='0:RaoH' item=1/0
+[5130a2aa][game]: kill killer='2:Seraf' victim='4:pipo' weapon=3 special=0
+[5130a2ad][game]: pickup player='5:shaftmx' item=3/5
+[5130a2af][game]: pickup player='3:wildchild' item=2/3
+[5130a2b1][game]: kill killer='3:wildchild' victim='1:talset' weapon=0 special=0
+[5130a2b3][game]: kill killer='6:guits' victim='3:wildchild' weapon=3 special=0
+[5130a2b4][game]: pickup player='1:talset' item=2/2
+[5130a2b4][game]: kill killer='2:Seraf' victim='5:shaftmx' weapon=3 special=0
+[5130a2b6][game]: pickup player='0:RaoH' item=2/4
+[5130a2b7][game]: pickup player='4:pipo' item=2/3
+[5130a2b8][game]: pickup player='1:talset' item=2/3
+[5130a2b8][game]: pickup player='1:talset' item=1/0
+[5130a2b8][game]: pickup player='1:talset' item=1/0
+[5130a2b8][game]: pickup player='1:talset' item=1/0
+[5130a2b8][game]: kill killer='4:pipo' victim='2:Seraf' weapon=3 special=0
+[5130a2b8][game]: pickup player='1:talset' item=1/0
+[5130a2b9][game]: pickup player='6:guits' item=1/0
+[5130a2b9][game]: pickup player='3:wildchild' item=1/0
+[5130a2b9][game]: pickup player='3:wildchild' item=1/0
+[5130a2b9][game]: pickup player='3:wildchild' item=1/0
+[5130a2bb][game]: pickup player='3:wildchild' item=2/2
+[5130a2bc][game]: pickup player='5:shaftmx' item=2/2
+[5130a2be][game]: pickup player='5:shaftmx' item=0/0
+[5130a2be][game]: pickup player='5:shaftmx' item=0/0
+[5130a2be][game]: kill killer='4:pipo' victim='2:Seraf' weapon=3 special=0
+[5130a2be][game]: kill killer='4:pipo' victim='4:pipo' weapon=3 special=0
+[5130a2bf][game]: pickup player='6:guits' item=0/0
+[5130a2bf][game]: pickup player='6:guits' item=0/0
+[5130a2bf][game]: pickup player='6:guits' item=0/0
+[5130a2bf][game]: kill killer='1:talset' victim='6:guits' weapon=3 special=0
+[5130a2bf][game]: kill killer='5:shaftmx' victim='0:RaoH' weapon=2 special=0
+[5130a2c1][game]: pickup player='3:wildchild' item=1/0
+[5130a2c1][game]: pickup player='1:talset' item=0/0
+[5130a2c1][game]: pickup player='3:wildchild' item=1/0
+[5130a2c1][game]: pickup player='3:wildchild' item=1/0
+[5130a2c4][game]: pickup player='2:Seraf' item=2/2
+[5130a2c6][game]: pickup player='0:RaoH' item=2/3
+[5130a2c7][game]: kill killer='3:wildchild' victim='1:talset' weapon=2 special=0
+[5130a2c7][game]: pickup player='6:guits' item=2/3
+[5130a2c7][game]: kill killer='6:guits' victim='5:shaftmx' weapon=0 special=0
+[5130a2c8][game]: pickup player='3:wildchild' item=2/4
+[5130a2cb][game]: kill killer='2:Seraf' victim='4:pipo' weapon=2 special=0
+[5130a2cb][game]: kill killer='3:wildchild' victim='2:Seraf' weapon=2 special=0
+[5130a2cb][game]: pickup player='0:RaoH' item=1/0
+[5130a2cb][game]: pickup player='0:RaoH' item=1/0
+[5130a2cf][game]: kill killer='5:shaftmx' victim='5:shaftmx' weapon=-1 special=0
+[5130a2d0][game]: pickup player='5:shaftmx' item=2/2
+[5130a2d1][game]: pickup player='6:guits' item=1/0
+[5130a2d1][game]: pickup player='2:Seraf' item=2/2
+[5130a2d2][game]: pickup player='6:guits' item=1/0
+[5130a2d2][game]: pickup player='6:guits' item=1/0
+[5130a2d5][game]: pickup player='1:talset' item=2/3
+[5130a2d5][game]: pickup player='2:Seraf' item=1/0
+[5130a2d6][game]: pickup player='5:shaftmx' item=1/0
+[5130a2d6][game]: pickup player='5:shaftmx' item=1/0
+[5130a2d6][game]: pickup player='5:shaftmx' item=1/0
+[5130a2d6][game]: pickup player='5:shaftmx' item=1/0
+[5130a2d7][game]: pickup player='5:shaftmx' item=2/3
+[5130a2d7][game]: pickup player='3:wildchild' item=0/0
+[5130a2d7][game]: pickup player='6:guits' item=2/3
+[5130a2d8][game]: pickup player='0:RaoH' item=0/0
+[5130a2d8][game]: pickup player='0:RaoH' item=0/0
+[5130a2d8][game]: pickup player='0:RaoH' item=0/0
+[5130a2d9][game]: pickup player='0:RaoH' item=2/4
+[5130a2da][game]: kill killer='3:wildchild' victim='0:RaoH' weapon=4 special=0
+[5130a2db][game]: kill killer='6:guits' victim='6:guits' weapon=3 special=0
+[5130a2db][game]: pickup player='3:wildchild' item=0/0
+[5130a2db][game]: pickup player='3:wildchild' item=0/0
+[5130a2dc][game]: pickup player='0:RaoH' item=1/0
+[5130a2dd][game]: kill killer='2:Seraf' victim='4:pipo' weapon=0 special=0
+[5130a2dd][game]: kill killer='3:wildchild' victim='5:shaftmx' weapon=4 special=0
+[5130a2dd][game]: kill killer='0:RaoH' victim='2:Seraf' weapon=1 special=0
+[5130a2de][game]: pickup player='1:talset' item=1/0
+[5130a2de][game]: pickup player='1:talset' item=1/0
+[5130a2df][game]: kill killer='0:RaoH' victim='3:wildchild' weapon=1 special=0
+[5130a2df][game]: pickup player='1:talset' item=2/2
+[5130a2e3][game]: pickup player='3:wildchild' item=1/0
+[5130a2e3][game]: pickup player='3:wildchild' item=1/0
+[5130a2e3][game]: pickup player='3:wildchild' item=1/0
+[5130a2e4][game]: kill killer='1:talset' victim='0:RaoH' weapon=3 special=0
+[5130a2e5][game]: pickup player='3:wildchild' item=2/2
+[5130a2e5][game]: pickup player='6:guits' item=1/0
+[5130a2e5][game]: pickup player='6:guits' item=1/0
+[5130a2e6][game]: pickup player='5:shaftmx' item=0/0
+[5130a2e6][game]: pickup player='5:shaftmx' item=0/0
+[5130a2e6][game]: pickup player='6:guits' item=1/0
+[5130a2e6][game]: pickup player='6:guits' item=1/0
+[5130a2e6][game]: pickup player='2:Seraf' item=2/2
+[5130a2e7][game]: pickup player='6:guits' item=2/3
+[5130a2e7][game]: pickup player='1:talset' item=0/0
+[5130a2e7][game]: pickup player='1:talset' item=0/0
+[5130a2e7][game]: pickup player='5:shaftmx' item=2/3
+[5130a2e8][game]: pickup player='1:talset' item=0/0
+[5130a2e8][game]: pickup player='1:talset' item=2/4
+[5130a2ea][game]: pickup player='0:RaoH' item=1/0
+[5130a2ea][game]: pickup player='0:RaoH' item=1/0
+[5130a2ea][game]: pickup player='0:RaoH' item=1/0
+[5130a2ec][game]: pickup player='5:shaftmx' item=0/0
+[5130a2ec][game]: pickup player='5:shaftmx' item=0/0
+[5130a2ec][game]: pickup player='5:shaftmx' item=0/0
+[5130a2ed][game]: pickup player='3:wildchild' item=2/3
+[5130a2ee][game]: kill killer='2:Seraf' victim='0:RaoH' weapon=2 special=0
+[5130a2ef][game]: kill killer='6:guits' victim='6:guits' weapon=3 special=0
+[5130a2ef][game]: kill killer='1:talset' victim='4:pipo' weapon=3 special=0
+[5130a2f2][game]: kill killer='3:wildchild' victim='3:wildchild' weapon=3 special=0
+[5130a2f2][game]: kill killer='3:wildchild' victim='2:Seraf' weapon=3 special=0
+[5130a2f3][game]: pickup player='0:RaoH' item=2/2
+[5130a2f4][game]: pickup player='3:wildchild' item=2/2
+[5130a2f4][game]: pickup player='1:talset' item=1/0
+[5130a2f4][game]: pickup player='1:talset' item=1/0
+[5130a2f5][game]: pickup player='2:Seraf' item=0/0
+[5130a2f6][game]: kill killer='0:RaoH' victim='5:shaftmx' weapon=2 special=0
+[5130a2f7][game]: kill killer='3:wildchild' victim='4:pipo' weapon=0 special=0
+[5130a2f7][game]: kill killer='0:RaoH' victim='6:guits' weapon=2 special=0
+[5130a2f7][game]: pickup player='0:RaoH' item=0/0
+[5130a2f7][game]: pickup player='0:RaoH' item=0/0
+[5130a2f8][game]: pickup player='0:RaoH' item=0/0
+[5130a2f8][game]: pickup player='2:Seraf' item=2/3
+[5130a2f9][game]: pickup player='3:wildchild' item=1/0
+[5130a2f9][game]: pickup player='3:wildchild' item=1/0
+[5130a2f9][game]: pickup player='3:wildchild' item=1/0
+[5130a2f9][game]: pickup player='0:RaoH' item=2/4
+[5130a2fb][game]: pickup player='5:shaftmx' item=1/0
+[5130a2fb][game]: pickup player='5:shaftmx' item=1/0
+[5130a2fb][game]: pickup player='5:shaftmx' item=1/0
+[5130a2fb][game]: pickup player='5:shaftmx' item=1/0
+[5130a2fb][game]: pickup player='5:shaftmx' item=2/3
+[5130a2fb][game]: pickup player='6:guits' item=0/0
+[5130a2fb][game]: kill killer='6:guits' victim='0:RaoH' weapon=1 special=0
+[5130a2fc][game]: pickup player='4:pipo' item=1/0
+[5130a2fc][game]: pickup player='4:pipo' item=1/0
+[5130a2fc][game]: pickup player='4:pipo' item=1/0
+[5130a2fc][game]: pickup player='6:guits' item=0/0
+[5130a2fd][game]: pickup player='6:guits' item=0/0
+[5130a2fe][game]: pickup player='1:talset' item=2/3
+[5130a2fe][game]: kill killer='5:shaftmx' victim='4:pipo' weapon=3 special=0
+[5130a301][game]: pickup player='0:RaoH' item=2/2
+[5130a304][game]: kill killer='2:Seraf' victim='6:guits' weapon=3 special=0
+[5130a306][game]: kill killer='5:shaftmx' victim='1:talset' weapon=1 special=0
+[5130a306][game]: kill killer='4:pipo' victim='2:Seraf' weapon=1 special=0
+[5130a307][game]: pickup player='0:RaoH' item=3/5
+[5130a308][game]: pickup player='2:Seraf' item=2/2
+[5130a308][game]: pickup player='1:talset' item=1/0
+[5130a308][game]: pickup player='1:talset' item=1/0
+[5130a308][game]: pickup player='5:shaftmx' item=2/2
+[5130a309][game]: pickup player='4:pipo' item=2/4
+[5130a30b][game]: pickup player='3:wildchild' item=1/0
+[5130a30b][game]: pickup player='3:wildchild' item=1/0
+[5130a30b][game]: pickup player='3:wildchild' item=1/0
+[5130a30b][game]: kill killer='0:RaoH' victim='2:Seraf' weapon=5 special=0
+[5130a30e][game]: pickup player='6:guits' item=2/3
+[5130a30e][game]: pickup player='5:shaftmx' item=1/0
+[5130a30e][game]: pickup player='5:shaftmx' item=1/0
+[5130a30f][game]: pickup player='5:shaftmx' item=1/0
+[5130a310][game]: kill killer='6:guits' victim='6:guits' weapon=-1 special=0
+[5130a312][game]: pickup player='5:shaftmx' item=1/0
+[5130a312][game]: pickup player='5:shaftmx' item=1/0
+[5130a312][game]: pickup player='5:shaftmx' item=1/0
+[5130a312][game]: pickup player='5:shaftmx' item=1/0
+[5130a312][game]: pickup player='5:shaftmx' item=2/3
+[5130a313][game]: pickup player='3:wildchild' item=0/0
+[5130a313][game]: pickup player='3:wildchild' item=0/0
+[5130a313][game]: pickup player='3:wildchild' item=0/0
+[5130a314][game]: pickup player='3:wildchild' item=2/3
+[5130a314][game]: pickup player='2:Seraf' item=2/2
+[5130a316][game]: pickup player='5:shaftmx' item=0/0
+[5130a316][game]: pickup player='0:RaoH' item=0/0
+[5130a316][game]: pickup player='4:pipo' item=0/0
+[5130a316][game]: pickup player='0:RaoH' item=0/0
+[5130a316][game]: pickup player='5:shaftmx' item=0/0
+[5130a316][game]: pickup player='0:RaoH' item=0/0
+[5130a317][game]: pickup player='0:RaoH' item=0/0
+[5130a317][game]: pickup player='5:shaftmx' item=0/0
+[5130a317][game]: pickup player='0:RaoH' item=0/0
+[5130a317][game]: kill killer='0:RaoH' victim='4:pipo' weapon=2 special=0
+[5130a318][game]: pickup player='3:wildchild' item=2/2
+[5130a31b][game]: kill killer='3:wildchild' victim='2:Seraf' weapon=3 special=0
+[5130a31c][game]: kill killer='5:shaftmx' victim='6:guits' weapon=3 special=0
+[5130a31d][game]: kill killer='0:RaoH' victim='5:shaftmx' weapon=2 special=0
+[5130a31d][game]: pickup player='2:Seraf' item=2/2
+[5130a31e][game]: kill killer='3:wildchild' victim='0:RaoH' weapon=3 special=0
+[5130a31f][game]: pickup player='3:wildchild' item=2/3
+[5130a31f][game]: pickup player='5:shaftmx' item=1/0
+[5130a31f][game]: pickup player='5:shaftmx' item=1/0
+[5130a31f][game]: pickup player='5:shaftmx' item=1/0
+[5130a320][game]: pickup player='6:guits' item=1/0
+[5130a320][game]: pickup player='6:guits' item=1/0
+[5130a321][game]: pickup player='3:wildchild' item=1/0
+[5130a322][game]: pickup player='3:wildchild' item=1/0
+[5130a322][game]: kill killer='2:Seraf' victim='4:pipo' weapon=2 special=0
+[5130a323][game]: pickup player='1:talset' item=2/3
+[5130a323][game]: pickup player='5:shaftmx' item=1/0
+[5130a323][game]: pickup player='5:shaftmx' item=1/0
+[5130a323][game]: pickup player='5:shaftmx' item=1/0
+[5130a323][game]: pickup player='5:shaftmx' item=1/0
+[5130a324][game]: pickup player='5:shaftmx' item=2/3
+[5130a325][game]: pickup player='3:wildchild' item=0/0
+[5130a326][game]: kill killer='0:RaoH' victim='0:RaoH' weapon=-1 special=0
+[5130a327][game]: pickup player='5:shaftmx' item=0/0
+[5130a327][game]: pickup player='3:wildchild' item=0/0
+[5130a328][game]: pickup player='5:shaftmx' item=0/0
+[5130a328][game]: pickup player='2:Seraf' item=2/2
+[5130a32a][game]: pickup player='3:wildchild' item=0/0
+[5130a32a][game]: pickup player='1:talset' item=1/0
+[5130a32a][game]: pickup player='1:talset' item=1/0
+[5130a32a][game]: pickup player='1:talset' item=1/0
+[5130a32a][game]: kill killer='2:Seraf' victim='5:shaftmx' weapon=2 special=0
+[5130a32b][game]: pickup player='2:Seraf' item=0/0
+[5130a32d][game]: pickup player='5:shaftmx' item=2/2
+[5130a32d][game]: pickup player='2:Seraf' item=2/4
+[5130a32e][game]: pickup player='1:talset' item=2/3
+[5130a32f][game]: kill killer='5:shaftmx' victim='2:Seraf' weapon=2 special=0
+[5130a32f][game]: kill killer='1:talset' victim='5:shaftmx' weapon=3 special=0
+[5130a330][game]: kill killer='5:shaftmx' victim='3:wildchild' weapon=2 special=0
+[5130a331][game]: pickup player='2:Seraf' item=1/0
+[5130a331][game]: kill killer='4:pipo' victim='4:pipo' weapon=-1 special=0
+[5130a331][game]: pickup player='2:Seraf' item=1/0
+[5130a332][game]: pickup player='0:RaoH' item=1/0
+[5130a332][game]: pickup player='6:guits' item=1/0
+[5130a332][game]: pickup player='6:guits' item=1/0
+[5130a333][game]: pickup player='6:guits' item=2/3
+[5130a333][game]: pickup player='0:RaoH' item=1/0
+[5130a334][game]: pickup player='4:pipo' item=2/2
+[5130a334][game]: kill killer='6:guits' victim='0:RaoH' weapon=0 special=0
+[5130a337][game]: pickup player='0:RaoH' item=2/3
+[5130a337][game]: kill killer='3:wildchild' victim='4:pipo' weapon=1 special=0
+[5130a338][game]: pickup player='2:Seraf' item=0/0
+[5130a338][game]: pickup player='3:wildchild' item=1/0
+[5130a339][game]: pickup player='2:Seraf' item=0/0
+[5130a339][game]: pickup player='2:Seraf' item=0/0
+[5130a33a][game]: pickup player='2:Seraf' item=0/0
+[5130a33b][game]: pickup player='1:talset' item=0/0
+[5130a33b][game]: pickup player='1:talset' item=0/0
+[5130a33d][game]: pickup player='1:talset' item=2/4
+[5130a33d][game]: pickup player='3:wildchild' item=1/0
+[5130a33d][game]: pickup player='5:shaftmx' item=0/0
+[5130a33d][game]: pickup player='5:shaftmx' item=0/0
+[5130a33d][game]: pickup player='3:wildchild' item=1/0
+[5130a33d][game]: pickup player='3:wildchild' item=1/0
+[5130a33f][game]: kill killer='1:talset' victim='1:talset' weapon=-1 special=0
+[5130a33f][game]: pickup player='4:pipo' item=0/0
+[5130a33f][game]: pickup player='4:pipo' item=0/0
+[5130a33f][game]: pickup player='0:RaoH' item=2/2
+[5130a340][game]: pickup player='3:wildchild' item=2/2
+[5130a341][game]: pickup player='1:talset' item=1/0
+[5130a341][game]: pickup player='1:talset' item=1/0
+[5130a342][game]: pickup player='2:Seraf' item=2/3
+[5130a342][game]: kill killer='3:wildchild' victim='6:guits' weapon=2 special=0
+[5130a343][game]: kill killer='2:Seraf' victim='2:Seraf' weapon=3 special=0
+[5130a343][game]: kill killer='0:RaoH' victim='5:shaftmx' weapon=3 special=0
+[5130a345][game]: pickup player='3:wildchild' item=2/2
+[5130a346][game]: pickup player='3:wildchild' item=1/0
+[5130a346][game]: pickup player='3:wildchild' item=1/0
+[5130a346][game]: kill killer='0:RaoH' victim='4:pipo' weapon=3 special=0
+[5130a346][game]: pickup player='3:wildchild' item=1/0
+[5130a347][game]: pickup player='0:RaoH' item=0/0
+[5130a347][game]: pickup player='5:shaftmx' item=1/0
+[5130a348][game]: pickup player='5:shaftmx' item=1/0
+[5130a348][game]: pickup player='5:shaftmx' item=1/0
+[5130a348][game]: pickup player='5:shaftmx' item=1/0
+[5130a348][game]: pickup player='5:shaftmx' item=2/3
+[5130a349][game]: pickup player='1:talset' item=2/3
+[5130a34b][game]: pickup player='3:wildchild' item=1/0
+[5130a34b][game]: pickup player='3:wildchild' item=1/0
+[5130a34c][game]: kill killer='0:RaoH' victim='0:RaoH' weapon=-1 special=0
+[5130a34d][game]: pickup player='1:talset' item=2/4
+[5130a34d][game]: kill killer='3:wildchild' victim='5:shaftmx' weapon=2 special=0
+[5130a34d][game]: kill killer='3:wildchild' victim='6:guits' weapon=2 special=0
+[5130a34e][game]: kill killer='1:talset' victim='2:Seraf' weapon=3 special=0
+[5130a34f][game]: pickup player='5:shaftmx' item=2/2
+[5130a351][game]: pickup player='3:wildchild' item=1/0
+[5130a351][game]: pickup player='3:wildchild' item=1/0
+[5130a351][game]: pickup player='5:shaftmx' item=2/3
+[5130a351][game]: pickup player='3:wildchild' item=1/0
+[5130a352][game]: pickup player='0:RaoH' item=2/2
+[5130a353][game]: kill killer='1:talset' victim='2:Seraf' weapon=3 special=0
+[5130a354][game]: pickup player='4:pipo' item=2/2
+[5130a355][game]: pickup player='2:Seraf' item=1/0
+[5130a355][game]: pickup player='2:Seraf' item=1/0
+[5130a355][game]: kill killer='0:RaoH' victim='3:wildchild' weapon=2 special=0
+[5130a358][game]: kill killer='1:talset' victim='1:talset' weapon=-1 special=0
+[5130a359][game]: pickup player='3:wildchild' item=1/0
+[5130a359][game]: pickup player='3:wildchild' item=1/0
+[5130a359][game]: pickup player='3:wildchild' item=1/0
+[5130a35a][game]: kill killer='0:RaoH' victim='4:pipo' weapon=2 special=0
+[5130a35a][game]: pickup player='2:Seraf' item=0/0
+[5130a35a][game]: pickup player='5:shaftmx' item=0/0
+[5130a35a][game]: pickup player='5:shaftmx' item=0/0
+[5130a35a][game]: kill killer='0:RaoH' victim='6:guits' weapon=2 special=0
+[5130a35a][game]: pickup player='2:Seraf' item=0/0
+[5130a35b][game]: kill killer='5:shaftmx' victim='2:Seraf' weapon=3 special=0
+[5130a35c][game]: pickup player='5:shaftmx' item=0/0
+[5130a35c][game]: pickup player='1:talset' item=2/3
+[5130a35c][game]: pickup player='3:wildchild' item=1/0
+[5130a35d][game]: pickup player='3:wildchild' item=1/0
+[5130a35d][game]: pickup player='5:shaftmx' item=0/0
+[5130a35e][game]: pickup player='5:shaftmx' item=2/4
+[5130a360][game]: kill killer='6:guits' victim='0:RaoH' weapon=1 special=0
+[5130a363][game]: pickup player='1:talset' item=3/5
+[5130a363][game]: pickup player='5:shaftmx' item=2/3
+[5130a363][game]: pickup player='3:wildchild' item=2/2
+[5130a363][game]: kill killer='4:pipo' victim='6:guits' weapon=1 special=0
+[5130a366][game]: pickup player='6:guits' item=2/2
+[5130a366][game]: pickup player='5:shaftmx' item=1/0
+[5130a366][game]: pickup player='5:shaftmx' item=1/0
+[5130a366][game]: pickup player='5:shaftmx' item=1/0
+[5130a367][game]: kill killer='1:talset' victim='5:shaftmx' weapon=5 special=0
+[5130a368][game]: pickup player='2:Seraf' item=1/0
+[5130a368][game]: pickup player='2:Seraf' item=1/0
+[5130a36b][game]: pickup player='5:shaftmx' item=1/0
+[5130a36b][game]: pickup player='5:shaftmx' item=1/0
+[5130a36b][game]: pickup player='5:shaftmx' item=1/0
+[5130a36b][game]: pickup player='5:shaftmx' item=1/0
+[5130a36b][game]: pickup player='0:RaoH' item=2/3
+[5130a36b][game]: pickup player='5:shaftmx' item=2/3
+[5130a36c][game]: pickup player='4:pipo' item=1/0
+[5130a36d][game]: pickup player='4:pipo' item=1/0
+[5130a36f][game]: kill killer='2:Seraf' victim='0:RaoH' weapon=0 special=0
+[5130a36f][game]: pickup player='3:wildchild' item=0/0
+[5130a370][game]: pickup player='3:wildchild' item=2/4
+[5130a371][game]: pickup player='1:talset' item=0/0
+[5130a371][game]: pickup player='5:shaftmx' item=0/0
+[5130a372][game]: kill killer='5:shaftmx' victim='3:wildchild' weapon=3 special=0
+[5130a372][game]: pickup player='1:talset' item=0/0
+[5130a372][game]: kill killer='1:talset' victim='4:pipo' weapon=3 special=0
+[5130a373][game]: kill killer='5:shaftmx' victim='1:talset' weapon=3 special=0
+[5130a373][game]: pickup player='5:shaftmx' item=0/0
+[5130a374][game]: pickup player='5:shaftmx' item=0/0
+[5130a374][game]: pickup player='2:Seraf' item=2/2
+[5130a374][game]: pickup player='1:talset' item=2/3
+[5130a375][game]: pickup player='4:pipo' item=2/2
+[5130a377][game]: kill killer='1:talset' victim='1:talset' weapon=-1 special=0
+[5130a377][game]: pickup player='0:RaoH' item=2/2
+[5130a378][game]: pickup player='3:wildchild' item=1/0
+[5130a378][game]: pickup player='3:wildchild' item=1/0
+[5130a378][game]: pickup player='3:wildchild' item=1/0
+[5130a379][game]: pickup player='1:talset' item=1/0
+[5130a379][game]: pickup player='1:talset' item=1/0
+[5130a379][game]: pickup player='1:talset' item=1/0
+[5130a37a][game]: kill killer='6:guits' victim='2:Seraf' weapon=0 special=0
+[5130a37b][game]: kill killer='4:pipo' victim='3:wildchild' weapon=2 special=0
+[5130a37b][game]: pickup player='5:shaftmx' item=1/0
+[5130a37b][game]: pickup player='5:shaftmx' item=1/0
+[5130a37c][game]: pickup player='5:shaftmx' item=1/0
+[5130a37c][game]: pickup player='5:shaftmx' item=1/0
+[5130a37d][game]: pickup player='5:shaftmx' item=2/3
+[5130a37f][game]: pickup player='2:Seraf' item=2/3
+[5130a382][game]: pickup player='5:shaftmx' item=0/0
+[5130a382][game]: pickup player='5:shaftmx' item=0/0
+[5130a382][game]: kill killer='0:RaoH' victim='4:pipo' weapon=2 special=0
+[5130a382][game]: pickup player='5:shaftmx' item=0/0
+[5130a382][game]: pickup player='5:shaftmx' item=0/0
+[5130a382][game]: pickup player='6:guits' item=2/4
+[5130a383][game]: kill killer='5:shaftmx' victim='6:guits' weapon=3 special=0
+[5130a384][game]: pickup player='0:RaoH' item=2/2
+[5130a384][game]: pickup player='5:shaftmx' item=0/0
+[5130a384][game]: pickup player='2:Seraf' item=1/0
+[5130a384][game]: pickup player='2:Seraf' item=1/0
+[5130a385][game]: pickup player='3:wildchild' item=0/0
+[5130a385][game]: pickup player='3:wildchild' item=0/0
+[5130a385][game]: pickup player='3:wildchild' item=0/0
+[5130a386][game]: pickup player='5:shaftmx' item=2/3
+[5130a386][game]: pickup player='3:wildchild' item=0/0
+[5130a386][game]: pickup player='3:wildchild' item=0/0
+[5130a387][game]: pickup player='0:RaoH' item=1/0
+[5130a38a][game]: pickup player='0:RaoH' item=1/0
+[5130a38d][game]: pickup player='0:RaoH' item=0/0
+[5130a38d][game]: pickup player='3:wildchild' item=2/2
+[5130a38d][game]: kill killer='5:shaftmx' victim='6:guits' weapon=3 special=0
+[5130a38e][game]: pickup player='1:talset' item=2/2
+[5130a38f][game]: kill killer='1:talset' victim='0:RaoH' weapon=2 special=0
+[5130a38f][game]: kill killer='5:shaftmx' victim='1:talset' weapon=3 special=0
+[5130a390][game]: kill killer='5:shaftmx' victim='2:Seraf' weapon=3 special=0
+[5130a39a][game]: ctf2
+[5130a39a][game]: start round type='DM' teamplay='0'
+[5130a39a][datafile]: loading. filename='maps/ctf2.map'
+[5130a39a][datafile]: allocsize=2708
+[5130a39a][datafile]: readsize=2420
+[5130a39a][datafile]: swaplen=2440
+[5130a39a][datafile]: item_size=2040
+[5130a39a][datafile]: loading done. datafile='maps/ctf2.map'
+[5130a39a][server]: maps/ctf2.map crc is 27bc5eac
+[5130a39a][datafile]: loading data index=18 size=1016 uncompressed=74800
+[5130a39a][server]: player is ready. ClientID=1 addr=94.143.112.83:55758
+[5130a39a][server]: player is ready. ClientID=4 addr=94.143.112.83:43727
+[5130a39a][server]: player is ready. ClientID=3 addr=94.143.112.83:47164
+[5130a39a][server]: player is ready. ClientID=2 addr=94.143.112.83:54087
+[5130a39a][server]: player is ready. ClientID=0 addr=94.143.112.83:55283
+[5130a39a][server]: player is ready. ClientID=5 addr=94.143.112.83:42987
+[5130a39a][server]: player is ready. ClientID=6 addr=94.143.112.83:45851
+[5130a39b][server]: player has entered the game. ClientID=1 addr=94.143.112.83:55758
+[5130a39b][chat]: *** 'talset' entered and joined the game
+[5130a39b][game]: team_join player='1:talset' team=0
+[5130a39b][server]: player has entered the game. ClientID=3 addr=94.143.112.83:47164
+[5130a39b][chat]: *** 'wildchild' entered and joined the game
+[5130a39b][game]: team_join player='3:wildchild' team=0
+[5130a39b][server]: player has entered the game. ClientID=4 addr=94.143.112.83:43727
+[5130a39b][chat]: *** 'pipo' entered and joined the game
+[5130a39b][game]: team_join player='4:pipo' team=0
+[5130a39b][server]: player has entered the game. ClientID=2 addr=94.143.112.83:54087
+[5130a39b][chat]: *** 'Seraf' entered and joined the game
+[5130a39b][game]: team_join player='2:Seraf' team=0
+[5130a39b][server]: player has entered the game. ClientID=6 addr=94.143.112.83:45851
+[5130a39b][chat]: *** 'guits' entered and joined the game
+[5130a39b][game]: team_join player='6:guits' team=0
+[5130a39b][server]: player has entered the game. ClientID=0 addr=94.143.112.83:55283
+[5130a39b][chat]: *** 'RaoH' entered and joined the game
+[5130a39b][game]: team_join player='0:RaoH' team=0
+[5130a39b][server]: player has entered the game. ClientID=5 addr=94.143.112.83:42987
+[5130a39b][chat]: *** 'shaftmx' entered and joined the game
+[5130a39b][game]: team_join player='5:shaftmx' team=0
+[5130a39e][game]: pickup player='4:pipo' item=2/2
+[5130a39f][game]: pickup player='3:wildchild' item=1/0
+[5130a39f][game]: pickup player='3:wildchild' item=1/0
+[5130a39f][game]: pickup player='3:wildchild' item=1/0
+[5130a39f][server]: client dropped. cid=6 addr=94.143.112.83:45851 reason=''
+[5130a39f][game]: kill killer='6:guits' victim='6:guits' weapon=-3 special=0
+[5130a39f][chat]: *** 'guits' has left the game
+[5130a39f][game]: leave player='6:guits'
+[5130a39f][game]: pickup player='0:RaoH' item=2/3
+[5130a39f][server]: client dropped. cid=5 addr=94.143.112.83:42987 reason=''
+[5130a39f][game]: kill killer='5:shaftmx' victim='5:shaftmx' weapon=-3 special=0
+[5130a39f][chat]: *** 'shaftmx' has left the game
+[5130a39f][game]: leave player='5:shaftmx'
+[5130a3a0][game]: pickup player='0:RaoH' item=1/0
+[5130a3a0][game]: pickup player='0:RaoH' item=1/0
+[5130a3a0][game]: pickup player='0:RaoH' item=1/0
+[5130a3a0][game]: pickup player='0:RaoH' item=1/0
+[5130a3a0][game]: pickup player='0:RaoH' item=1/0
+[5130a3a2][game]: pickup player='4:pipo' item=2/3
+[5130a3a2][game]: pickup player='4:pipo' item=1/0
+[5130a3a2][game]: pickup player='4:pipo' item=1/0
+[5130a3a2][game]: pickup player='4:pipo' item=1/0
+[5130a3a5][game]: pickup player='3:wildchild' item=2/4
+[5130a3a6][game]: pickup player='2:Seraf' item=1/0
+[5130a3a6][game]: pickup player='2:Seraf' item=1/0
+[5130a3a6][game]: pickup player='2:Seraf' item=1/0
+[5130a3a6][game]: pickup player='2:Seraf' item=1/0
+[5130a3a7][game]: pickup player='3:wildchild' item=2/3
+[5130a3d8][game]: pickup player='2:Seraf' item=1/0
+[5130a3d8][game]: pickup player='2:Seraf' item=1/0
+[5130a3d8][game]: pickup player='2:Seraf' item=1/0
+[5130a3d8][game]: pickup player='2:Seraf' item=1/0
+[5130a3d8][game]: pickup player='2:Seraf' item=1/0
+[5130a3d8][game]: pickup player='2:Seraf' item=1/0
+[5130a3d8][server]: client dropped. cid=0 addr=94.143.112.83:55283 reason='Timeout'
+[5130a3d8][game]: kill killer='0:RaoH' victim='0:RaoH' weapon=-3 special=0
+[5130a3d8][chat]: *** 'RaoH' has left the game (Timeout)
+[5130a3d8][game]: leave player='0:RaoH'
+[5130a3d8][server]: client dropped. cid=1 addr=94.143.112.83:55758 reason='Timeout'
+[5130a3d8][game]: kill killer='1:talset' victim='1:talset' weapon=-3 special=0
+[5130a3d8][chat]: *** 'talset' has left the game (Timeout)
+[5130a3d8][game]: leave player='1:talset'
+[5130a3d8][server]: client dropped. cid=2 addr=94.143.112.83:54087 reason='Timeout'
+[5130a3d8][game]: kill killer='2:Seraf' victim='2:Seraf' weapon=-3 special=0
+[5130a3d8][chat]: *** 'Seraf' has left the game (Timeout)
+[5130a3d8][game]: leave player='2:Seraf'
+[5130a3d8][server]: client dropped. cid=3 addr=94.143.112.83:47164 reason='Timeout'
+[5130a3d8][game]: kill killer='3:wildchild' victim='3:wildchild' weapon=-3 special=0
+[5130a3d8][chat]: *** 'wildchild' has left the game (Timeout)
+[5130a3d8][game]: leave player='3:wildchild'
+[5130a3d8][server]: client dropped. cid=4 addr=94.143.112.83:43727 reason='Timeout'
+[5130a3d8][game]: kill killer='4:pipo' victim='4:pipo' weapon=-3 special=0
+[5130a3d8][chat]: *** 'pipo' has left the game (Timeout)
+[5130a3d8][game]: leave player='4:pipo'
