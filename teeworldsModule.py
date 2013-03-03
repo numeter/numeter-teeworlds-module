@@ -19,6 +19,7 @@ class teeworldsModule:
         self._configParser=configParser
 
         self._logfile = 'teeworlds.log'
+        self._logtail = '/usr/sbin/logtail'
         self._statefile = '/var/tmp/teeworlds_stats.statefile'
         self._cachefile = '/var/cache/teeworlds_stats.cache'
         self._STATUS = {}
@@ -29,6 +30,11 @@ class teeworldsModule:
             and self._configParser.get('teeworldsModule', 'logfile'):
                 self._logfile = self._configParser.get('teeworldsModule'
                                             , 'logfile')
+            # Get logtail
+            if self._configParser.has_option('teeworldsModule', 'logtail') \
+            and self._configParser.get('teeworldsModule', 'logtail'):
+                self._logtail = self._configParser.get('teeworldsModule'
+                                            , 'logtail')
 
 
     def _getStatus(self):
@@ -45,7 +51,7 @@ class teeworldsModule:
 
     def _getoffset(self):
         try:
-            process = subprocess.Popen(["logtail", self._logfile,
+            process = subprocess.Popen([self._logtail, self._logfile,
                                     self._statefile],stdout=subprocess.PIPE)
             (stdout, stderr) = process.communicate()
             # Devel disable statefile
