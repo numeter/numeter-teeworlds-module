@@ -23,7 +23,7 @@ Edit the poller configuration file :
 
     vim /etc/numeter/numeter_poller.cfg
 
-Add your new module in numeter poller module list :
+Add your new module in numeter poller module list **teeworldsModule** :
 
     modules = myMuninModule|teeworldsModule
 
@@ -31,3 +31,7 @@ Add the configuration section for this module :
 
     [teeworldsModule]
     logfile = /myserverpath/teeworlds.log
+
+You can change the path for **logtail** default /usr/sbin/logtail :
+
+    logtail = /usr/sbin/logtail
