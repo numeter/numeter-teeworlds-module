@@ -52,7 +52,7 @@ class teeworldsModule:
             #os.system('rm '+self._statefile)
             return stdout.rsplit('\n')
         except:
-            print "Can't launch logtail"
+            self._logger.critical("Can't launch logtail, check if logtail is installed or your PATH")
             return ''
 
     def _parseLogs(self):
