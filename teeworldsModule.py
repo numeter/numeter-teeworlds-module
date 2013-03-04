@@ -65,6 +65,33 @@ class teeworldsModule:
         f = self._getoffset()
         for line in f:
             #[51309e5c][game]: kill killer='1:talset' victim='0:RaoH' weapon=3 special=0
+
+            pickup = re.search(r'pickup player=\'[0-9]+:([^\']+)\' item=([0-9]/[0-9])', line)
+            if pickup is not None:
+                player = pickup.group(1)
+                item   = pickup.group(2)
+                if item == '1/0': item = 'shield'
+                elif item == '0/0': item = 'life'
+                elif item == '2/2': item = 'shotgun'
+                elif item == '2/3': item = 'rocket'
+                elif item == '2/4': item = 'laser'
+                elif item == '3/5': item = 'ninja'
+                else: continue
+
+                # Init tab
+                if not 'player_items' in self._STATUS:
+                    self._STATUS['player_items'] = {}
+
+                # Player items
+                if not player in self._STATUS['player_items']:
+                    self._STATUS['player_items'][player] = {}
+                if not item in self._STATUS['player_items'][player]:
+                    self._STATUS['player_items'][player][item] = 1
+                else:
+                    self._STATUS['player_items'][player][item] += 1
+
+                continue
+
             m = re.search(r'kill killer=\'[0-9]+:([^\']+)\' victim=\'[0-9]+:([^\']+)\' weapon=(\-?[0-9]+)', line)
             if m is not None:
                 player = m.group(1)
@@ -131,9 +158,42 @@ class teeworldsModule:
                 if player != killed:
                     self._STATUS['player_rate'][player]['kills'] += 1
 
-    
 
+    def _lifeItemPlugin(self,mode):
+        "Rate plugin"
+        now = time.strftime("%Y %m %d %H:%M", time.localtime())
+        nowTimestamp = "%.0f" % time.mktime(time.strptime(now, '%Y %m %d %H:%M'))
+        if mode == 'fetch': # DATAS
+            values = {}
+            for player in sorted(self._STATUS['player_items']):
+                number = (self._STATUS['player_items'][player]['life'] +
+                            self._STATUS['player_items'][player]['shield'])
+                values[player] = number
 
+            DATAS = {
+                'TimeStamp': nowTimestamp,
+                'Plugin': 'lifeItem',
+                'Values': values,
+            }
+            return DATAS
+        else: # INFOS
+            dsInfos = {}
+            for player in sorted(self._STATUS['player_items']):
+                dsInfos[player] = {
+                    "type": "GAUGE",
+                    "id": player,
+                    "draw": 'line',
+                    "label": player}
+            INFOS = {
+                'Plugin': 'lifeItem',
+                'Describ': 'Number of life item for each players', 
+                'Category': 'Teeworlds',
+                'Base': '1000', 
+                'Title': 'Players life item',
+                'Vlabel': 'number',
+                'Infos': dsInfos,
+            }
+            return INFOS
 
 
     def _ratesPlugin(self,mode):
@@ -404,6 +464,9 @@ class teeworldsModule:
         # killed by plugins
         DATAS.extend(self._killedBy('fetch'))
 
+        # life item plugins
+        DATAS.append(self._lifeItemPlugin('fetch'))
+
         return DATAS
 
 
@@ -431,6 +494,9 @@ class teeworldsModule:
 
         # killed by plugins
         INFOS.extend(self._killedBy('config'))
+
+        # life item plugins
+        INFOS.append(self._lifeItemPlugin('config'))
 
         return INFOS
 
