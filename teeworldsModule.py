@@ -166,8 +166,11 @@ class teeworldsModule:
         if mode == 'fetch': # DATAS
             values = {}
             for player in sorted(self._STATUS['player_items']):
-                number = (self._STATUS['player_items'][player]['life'] +
-                            self._STATUS['player_items'][player]['shield'])
+                number = 0
+                if 'life' in self._STATUS['player_items'][player]:
+                    number += self._STATUS['player_items'][player]['life']
+                if 'shield' in self._STATUS['player_items'][player]:
+                    number += self._STATUS['player_items'][player]['shield']
                 values[player] = number
 
             DATAS = {
