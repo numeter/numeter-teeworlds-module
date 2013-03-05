@@ -24,7 +24,7 @@ from distutils.core import setup
 if __name__ == '__main__':
 
     setup(name='numeter-teeworlds-module',
-          version='0.0.0.1',
+          version='0.0.0.2',
           description='Numeter Teeworlds Poller module',
           long_description="""A Teeworlds module for Numeter poller. This module\
           use logtail and make players statistics with the teeworlds server log.

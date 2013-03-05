@@ -188,6 +188,7 @@ class teeworldsModule:
                 'Plugin': 'lifeItem',
                 'Describ': 'Number of life item for each players', 
                 'Category': 'Teeworlds',
+                'Order': ' '.join(sorted(self._STATUS['player_rate'])),
                 'Base': '1000', 
                 'Title': 'Players life item',
                 'Vlabel': 'number',
@@ -216,6 +217,7 @@ class teeworldsModule:
                 'Values': values,
             }
             return DATAS
+
         else: # INFOS
             dsInfos = {}
             for player in sorted(self._STATUS['player_rate']):
@@ -228,6 +230,7 @@ class teeworldsModule:
                 'Plugin': 'rates',
                 'Describ': 'rate kill / death', 
                 'Category': 'Teeworlds',
+                'Order': ' '.join(sorted(self._STATUS['player_rate'])),
                 'Base': '1000', 
                 'Title': 'Players rate',
                 'Vlabel': 'rate', 
