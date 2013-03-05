@@ -188,7 +188,7 @@ class teeworldsModule:
                 'Plugin': 'lifeItem',
                 'Describ': 'Number of life item for each players', 
                 'Category': 'Teeworlds',
-                'Order': ' '.join(sorted(self._STATUS['player_rate'])),
+                'Order': ' '.join(sorted(self._STATUS['player_items'])),
                 'Base': '1000', 
                 'Title': 'Players life item',
                 'Vlabel': 'number',
