@@ -12,9 +12,9 @@ import logging
 class teeworldsModule: 
     "Module generic"
 
-    def  __init__(self,logger,configParser=None): 
+    def  __init__(self,configParser=None): 
         "Load configuration and start connexion"
-        self._logger= logger
+        self._logger= logging.getLogger(__name__)
         self._logger.info("Plugin Munin start")
         self._configParser=configParser
 
