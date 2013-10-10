@@ -477,7 +477,7 @@ class teeworldsModule:
 
 
 
-    def pluginsRefresh(self):
+    def getInfo(self):
         "Return plugins info for refresh"
         # Refresh status
         self._getStatus()
@@ -512,5 +512,5 @@ if __name__ == "__main__":
     stats = teeworldsModule(logger,None)
 
     print str(stats.getData())
-    print str(stats.pluginsRefresh())
+    print str(stats.getInfo())
 
