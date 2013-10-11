@@ -506,11 +506,12 @@ class teeworldsModule:
 
         return INFOS
 
-
 if __name__ == "__main__":
-    logger = logging.getLogger('numeter')
-    stats = teeworldsModule(logger,None)
-
+    _logger = logging.getLogger()
+    ch = logging.StreamHandler(stream=sys.stdout)
+    _logger.addHandler(ch)
+    _logger.setLevel(logging.DEBUG)
+    stats = teeworldsModule(None)
     print str(stats.getData())
     print str(stats.getInfo())
 
